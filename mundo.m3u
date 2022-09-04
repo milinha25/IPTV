@@ -70,6 +70,7 @@ https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
 
 #EXTINF: -1 group-title="Brazil", TV Pernambuco
 https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm40q6sWLKal-JZMV1Mv9bNv3rCth-Wo0YcS_oF8KCvr1S)/dm/3/x83gdzr/s/live-1.m3u8
+
 #EXTINF: -1 group-title="Brazil", Premiere
 https://origin.esporteone.com/PREMIERECLUBESSD/tracks-v1a1/mono.m3u8?md5=5B9twgu6PeVTnBG5HHYNeg&expires=1661824523
 #EXTINF: -1 group-title="Brazil", Band Sports
