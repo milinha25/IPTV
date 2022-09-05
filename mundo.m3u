@@ -17,21 +17,41 @@ http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/f5c33582-536e-4a1a-8281-6b02a354c39c/5.m3u8
 #EXTINF: -1 group-title="Argentina", TV Publica
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
 #EXTINF: -1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="Brazil", Anime TV (360p) [Not 24/7]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E FHD
+http://axr.life:80/00005733/MF159357C/5189
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E HD
+http://axr.life:80/00005733/MF159357C/5040
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E SD
+http://axr.life:80/00005733/MF159357C/5394
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png",AMC HD
+http://axr.life:80/00005733/MF159357C/5041
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png",AMC SD
+http://axr.life:80/00005733/MF159357C/5395
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",ANIMAL PLANET FHD
+http://axr.life:80/00005733/MF159357C/5191
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",ANIMAL PLANET HD
+http://axr.life:80/00005733/MF159357C/5042
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",ANIMAL PLANET SD
+http://axr.life:80/00005733/MF159357C/5396
 #EXTINF: -1 group-title="Brazil", AXN
 http://66.90.84.98/live/4719wil/452540/89813.m3u8?token=UUluR2s3RDVnSjFPaGpi
-#EXTINF: -1 group-title="Brazil", Arte 1
-http://66.90.84.98/live/4719wil/452540/89809.m3u8?token=bFJFdENsNGJ2RVJaY3ZB
-
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png",ARTE 1 FHD
+http://axr.life:80/00005733/MF159357C/38424
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png",ARTE 1 FHD (ALT)
+http://axr.life:80/00005733/MF159357C/923900
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png",ARTE 1 HD
+http://axr.life:80/00005733/MF159357C/17923
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png",ARTE 1 SD
+http://axr.life:80/00005733/MF159357C/923561
 #EXTINF: -1 tvg-id="Band.br" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="Brazil", Band (1080p) 
 http://66.90.84.98/hls/5f09a38bcfd3969c5730ee476fb2048a/89825_694.ts
 #EXTINF: -1 tvg-id="Band.br" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="Brazil", Band News (1080p) 
 http://66.90.84.98/hls/4cd80de6a7657d79a62b0194e1ad587e/89821_648.ts
 #EXTINF: -1 group-title="Brazil", Band Sports
 http://66.90.84.98/live/4719wil/452540/89829.m3u8?token=TlR4OGRIajdIMTIyNml5
-
 #EXTINF: -1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Brazil", Cartoon Network (Spanish)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF: -1 group-title="Brazil", Cartoonito (Portuguese)
@@ -40,19 +60,16 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF: -1 group-title="Brazil", Cartoon Network
 http://66.90.84.98/live/4719wil/452540/89866.m3u8?token=S2J3WjRPUTRJbDJoczRQ
-
 #EXTINF: -1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Brazil", Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF: -1 tvg-id="CNAInternational.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="Brazil", CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF: -1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="Brazil", CNN Brasil (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
-
 #EXTINF: -1 tvg-id="CartoonNetworkBrazil.br" group-title="Brazil", Cinemax
 http://66.90.84.98/live/4719wil/452540/90349.m3u8?token=TTRkY3JicWFxM3VFaVJC
 #EXTINF: -1 tvg-id="CartoonNetworkBrazil.br" group-title="Brazil", Combate
 http://66.90.84.98/hls/fe2b8b334e544addfa9a45c0391d8661/89878_613.ts
-
 #EXTINF: -1  group-title="Brazil", Record
 http://66.90.84.98/hls/fe2b8b334e544addfa9a45c0391d8661/89878_613.ts
 #EXTINF: -1  group-title="Brazil", Record News
@@ -63,7 +80,6 @@ http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Brazil", Retrô Cartoon (480p) [Not 24/7]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
 #EXTINF: -1  group-title="Brazil", SBT TV Jornal 
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w879884172.m3u8
 #EXTINF: -1 tvg-id="TVCamara2.br" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil", TV Câmara 2 (1080p) [Not 24/7]
@@ -78,10 +94,8 @@ https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLswMpqWbZzigVWV5WD
 http://66.90.84.98/live/4719wil/452540/90011.m3u8?token=VXJnMFl0ZUNnZW1DQ1lt
 #EXTINF: -1 group-title="Brazil", TV Nova Nordeste
 https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
-
 #EXTINF: -1 group-title="Brazil", TV Pernambuco
 https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm40q6sWLKal-JZMV1Mv9bNv3rCth-Wo0YcS_oF8KCvr1S)/dm/3/x83gdzr/s/live-1.m3u8
-
 #EXTINF: -1 group-title="Brazil", Espn
 http://66.90.68.98/hls/b4dd83ab579657ee5404c51d1975b05c/89963_622.ts
 #EXTINF: -1 group-title="Brazil", Telecine Premium
