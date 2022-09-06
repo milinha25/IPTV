@@ -7,12 +7,10 @@ http://190.61.41.182:8000/play/a2rn/index.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-id="249" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", 5TV | AR
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF: -1 group-title="Argentina", El Trece HD
 https://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF: -1 group-title="Argentina", Telefe HD
 http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
-
 #EXTINF: -1 group-title="Argentina", Canal 9
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/f5c33582-536e-4a1a-8281-6b02a354c39c/5.m3u8
 #EXTINF: -1 group-title="Argentina", TV Publica
@@ -20,6 +18,37 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="Brazil", Anime TV (360p) [Not 24/7]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF: -1  group-title="Brazil", SBT TV Jornal 
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w879884172.m3u8
+#EXTINF: -1 tvg-id="TVCamara2.br" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil", TV Câmara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF: -1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil", TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF: -1 group-title="Brazil", RBTV
+http://45.35.130.38/live/4719wil/452540/90269.m3u8?token=R25pTUZCdXRGVGltQWJB
+#EXTINF: -1 group-title="Brazil", TV Brasil
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLswMpqWbZzigVWV5WDf_YBVJJ186WVabC3SNJPz_gQBn)/dm/3/x82pp99/d/live-3.m3u8
+#EXTINF: -1 group-title="Brazil", TV Gazeta
+http://66.90.84.98/live/4719wil/452540/90011.m3u8?token=VXJnMFl0ZUNnZW1DQ1lt
+#EXTINF: -1 group-title="Brazil", TV Nova Nordeste
+https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
+#EXTINF: -1 group-title="Brazil", TV Pernambuco
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm40q6sWLKal-JZMV1Mv9bNv3rCth-Wo0YcS_oF8KCvr1S)/dm/3/x83gdzr/s/live-1.m3u8
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png",BAND HD
+http://axr.life:80/00005733/MF159357C/68519
+#EXTINF:-1 group-title="CANAIS | JORNALISMO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png",BAND NEWS FHD
+http://axr.life:80/00005733/MF159357C/5193
+#EXTINF:-1 group-title="CANAIS | JORNALISMO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png",BAND NEWS HD
+http://axr.life:80/00005733/MF159357C/5160
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://i.imgur.com/A70v3be.png",RECORD SP FHD
+http://axr.life:80/00005733/MF159357C/57255
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://i.imgur.com/A70v3be.png",RECORD SP HD
+http://axr.life:80/00005733/MF159357C/5316
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://i.imgur.com/A70v3be.png",RECORD SP SD
+#EXTINF: -1  group-title="Brazil", Record News
+https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live
+#EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_cultura_m.png" group-title="Brazil", Cultura PR Catve (720p)
+http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E FHD
 http://axr.life:80/00005733/MF159357C/5189
 #EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E HD
@@ -46,78 +75,277 @@ http://axr.life:80/00005733/MF159357C/923900
 http://axr.life:80/00005733/MF159357C/17923
 #EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png",ARTE 1 SD
 http://axr.life:80/00005733/MF159357C/923561
-#EXTINF: -1 tvg-id="Band.br" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="Brazil", Band (1080p) 
-http://66.90.84.98/hls/5f09a38bcfd3969c5730ee476fb2048a/89825_694.ts
-#EXTINF: -1 tvg-id="Band.br" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="Brazil", Band News (1080p) 
-http://66.90.84.98/hls/4cd80de6a7657d79a62b0194e1ad587e/89821_648.ts
-#EXTINF: -1 group-title="Brazil", Band Sports
-http://66.90.84.98/live/4719wil/452540/89829.m3u8?token=TlR4OGRIajdIMTIyNml5
+#EXTINF:-1 group-title="CANAIS | JORNALISMO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png",BAND NEWS SD
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png",BAND SPORTS FHD
+http://axr.life:80/00005733/MF159357C/5194
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png",BAND SPORTS HD
+http://axr.life:80/00005733/MF159357C/5044
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png",BAND SPORTS SD
 #EXTINF: -1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Brazil", Cartoon Network (Spanish)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF: -1 group-title="Brazil", Cartoonito (Portuguese)
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF: -1 group-title="Brazil", Cartoonito (Spanish)
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF: -1 group-title="Brazil", Cartoon Network
-http://66.90.84.98/live/4719wil/452540/89866.m3u8?token=S2J3WjRPUTRJbDJoczRQ
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png",CARTOON NETWORK FHD
+http://axr.life:80/00005733/MF159357C/5199
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png",CARTOON NETWORK HD
+http://axr.life:80/00005733/MF159357C/5047
 #EXTINF: -1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Brazil", Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF: -1 tvg-id="CNAInternational.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="Brazil", CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF: -1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="Brazil", CNN Brasil (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
-#EXTINF: -1 tvg-id="CartoonNetworkBrazil.br" group-title="Brazil", Cinemax
-http://66.90.84.98/live/4719wil/452540/90349.m3u8?token=TTRkY3JicWFxM3VFaVJC
-#EXTINF: -1 tvg-id="CartoonNetworkBrazil.br" group-title="Brazil", Combate
-http://66.90.84.98/hls/fe2b8b334e544addfa9a45c0391d8661/89878_613.ts
-#EXTINF: -1  group-title="Brazil", Record
-http://66.90.84.98/hls/fe2b8b334e544addfa9a45c0391d8661/89878_613.ts
-#EXTINF: -1  group-title="Brazil", Record News
-https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live
-#EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_cultura_m.png" group-title="Brazil", Cultura PR Catve (720p)
-http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
+#EXTINF:-1 group-title="CINE HD ESP" tvg-logo="http://visi4k.site:8080/images/f349c2b1ba9bfbb70ee4615b1939a3a6.png",CINE HD | CINEMAX (MX) HD
+http://axr.life:80/00005733/MF159357C/1002392
+#EXTINF:-1 group-title="CANAIS | ESPORTES",Combate FHD (ALT)
+http://axr.life:80/00005733/MF159357C/1011336
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png",COMBATE HD
+http://axr.life:80/00005733/MF159357C/5049
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png",COMBATE SD
+http://axr.life:80/00005733/MF159357C/5411
+#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png",COMEDY CENTRAL FHD
+http://axr.life:80/00005733/MF159357C/5202
+#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png",COMEDY CENTRAL HD
+http://axr.life:80/00005733/MF159357C/5050
+#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png",COMEDY CENTRAL SD
+http://axr.life:80/00005733/MF159357C/5412
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png",ESPN 2 FHD
+http://axr.life:80/00005733/MF159357C/5216
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png",ESPN 2 HD
+http://axr.life:80/00005733/MF159357C/5062
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png",ESPN 2 SD
+http://axr.life:80/00005733/MF159357C/5426
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png",ESPN 3 FHD
+http://axr.life:80/00005733/MF159357C/465905
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img922/1584/5vkptX.png",ESPN 3 HD
+http://axr.life:80/00005733/MF159357C/465906
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img922/9148/ZWlkp3.png",ESPN 4 FHD
+http://axr.life:80/00005733/MF159357C/465908
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img922/9148/ZWlkp3.png",ESPN 4 HD
+http://axr.life:80/00005733/MF159357C/465909
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png",ESPN EXTRA FHD
+http://axr.life:80/00005733/MF159357C/5214
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png",ESPN EXTRA HD
+http://axr.life:80/00005733/MF159357C/5065
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png",ESPN FHD
+http://axr.life:80/00005733/MF159357C/5215
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png",ESPN HD
+http://axr.life:80/00005733/MF159357C/5064
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png",ESPN SD
+http://axr.life:80/00005733/MF159357C/5425
+#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png",FILM & ARTS SD
+http://axr.life:80/00005733/MF159357C/923436
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png",FOX SPORTS 2 FHD
+http://axr.life:80/00005733/MF159357C/5224
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png",FOX SPORTS 2 HD
+http://axr.life:80/00005733/MF159357C/5071
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png",FOX SPORTS 2 SD
+http://axr.life:80/00005733/MF159357C/68533
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png",FX FHD
+http://axr.life:80/00005733/MF159357C/5225
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png",FX HD
+http://axr.life:80/00005733/MF159357C/5073
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png",FX SD
+http://axr.life:80/00005733/MF159357C/5436
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png",HBO 2 FHD
+http://axr.life:80/00005733/MF159357C/17912
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png",HBO 2 HD
+http://axr.life:80/00005733/MF159357C/5078
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png",HBO 2 SD
+http://axr.life:80/00005733/MF159357C/5449
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO FAMILY FHD
+http://axr.life:80/00005733/MF159357C/5229
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO FAMILY HD
+http://axr.life:80/00005733/MF159357C/5079
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO FAMILY SD
+http://axr.life:80/00005733/MF159357C/5446
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO FHD
+http://axr.life:80/00005733/MF159357C/355045
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO HD
+http://axr.life:80/00005733/MF159357C/355046
+#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 1 HD
+http://axr.life:80/00005733/MF159357C/355727
+#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 1 HD (ALT)
+http://axr.life:80/00005733/MF159357C/923173
+#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 2 HD
+http://axr.life:80/00005733/MF159357C/355728
+#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 2 HD (ALT)
+http://axr.life:80/00005733/MF159357C/923174
+#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 3 HD
+http://axr.life:80/00005733/MF159357C/355729
+#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 3 HD (ALT)
+http://axr.life:80/00005733/MF159357C/923175
+#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 4 HD
+http://axr.life:80/00005733/MF159357C/355730
+#EXTINF:-1 group-title="CANAIS | HBO MAX E STAR+" tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 4 HD (ALT)
+http://axr.life:80/00005733/MF159357C/923176
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI FHD
+http://axr.life:80/00005733/MF159357C/5239
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI HD
+http://axr.life:80/00005733/MF159357C/5087
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI SD
+http://axr.life:80/00005733/MF159357C/923558
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS HD
+http://axr.life:80/00005733/MF159357C/923015
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png",HBO PLUS SD
+http://axr.life:80/00005733/MF159357C/923455
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP FHD
+http://axr.life:80/00005733/MF159357C/5241
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP HD
+http://axr.life:80/00005733/MF159357C/5089
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP SD
+http://axr.life:80/00005733/MF159357C/923559
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO SD
+http://axr.life:80/00005733/MF159357C/5445
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO SD
+http://axr.life:80/00005733/MF159357C/5447
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png",HBO SIGNATURE FHD
+http://axr.life:80/00005733/MF159357C/5082
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png",HBO SIGNATURE HD
+http://axr.life:80/00005733/MF159357C/45334
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png",HBO SIGNATURE SD
+http://axr.life:80/00005733/MF159357C/5448
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png",HBO XTREME FHD
+http://axr.life:80/00005733/MF159357C/5240
+#EXTINF:-1 group-title="CANAIS | REDE HBO" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png",HBO XTREME HD
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 FHD
+http://axr.life:80/00005733/MF159357C/5235
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 FHD
+http://axr.life:80/00005733/MF159357C/923832
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 HD
+http://axr.life:80/00005733/MF159357C/5083
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 HD
+http://axr.life:80/00005733/MF159357C/923017
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 SD
+http://axr.life:80/00005733/MF159357C/923458
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 SD (ALT)
+http://axr.life:80/00005733/MF159357C/5450
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY CHANNEL HD
+http://axr.life:80/00005733/MF159357C/5084
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY CHANNEL SD
+http://axr.life:80/00005733/MF159357C/5534
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY FHD
+http://axr.life:80/00005733/MF159357C/5234
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY FHD
+http://axr.life:80/00005733/MF159357C/923807
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY HD
+http://axr.life:80/00005733/MF159357C/923018
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY SD
+http://axr.life:80/00005733/MF159357C/923541
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png",REDE BRASIL HD
+http://axr.life:80/00005733/MF159357C/374283
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="http://54.39.132.164:3390/resize.php?max=42&url=https://imagizer.imageshack.com/v2/640x480q90/924/4WZG0T.png",REDE SUPER HD
+http://axr.life:80/00005733/MF159357C/923553
+#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/4WZG0T.png",REDE SUPER SD
+http://axr.life:80/00005733/MF159357C/374356
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png",SPACE FHD
+http://axr.life:80/00005733/MF159357C/5261
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png",SPACE HD
+http://axr.life:80/00005733/MF159357C/5109
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png",SPACE SD
+http://axr.life:80/00005733/MF159357C/49321
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png",STUDIO UNIVERSAL FHD
+http://axr.life:80/00005733/MF159357C/5265
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png",STUDIO UNIVERSAL HD
+http://axr.life:80/00005733/MF159357C/5113
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png",STUDIO UNIVERSAL SD
+http://axr.life:80/00005733/MF159357C/5497
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png",SYFY FHD
+http://axr.life:80/00005733/MF159357C/5266
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png",SYFY FHD
+http://axr.life:80/00005733/MF159357C/923881
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png",SYFY HD
+http://axr.life:80/00005733/MF159357C/5114
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png",SYFY SD
+http://axr.life:80/00005733/MF159357C/5498
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png",TBS FHD
+http://axr.life:80/00005733/MF159357C/5267
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png",TBS FHD (ALT)
+http://axr.life:80/00005733/MF159357C/923880
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png",TBS HD
+http://axr.life:80/00005733/MF159357C/5115
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png",TBS SD
+http://axr.life:80/00005733/MF159357C/923506
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png",TELECINE ACTION FHD
+http://axr.life:80/00005733/MF159357C/5268
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png",TELECINE ACTION HD
+http://axr.life:80/00005733/MF159357C/5116
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png",TELECINE ACTION SD
+http://axr.life:80/00005733/MF159357C/5501
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png",TELECINE CULT FHD
+http://axr.life:80/00005733/MF159357C/5269
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png",TELECINE CULT HD
+http://axr.life:80/00005733/MF159357C/5117
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png",TELECINE CULT SD
+http://axr.life:80/00005733/MF159357C/5502
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png",TELECINE FUN FHD
+http://axr.life:80/00005733/MF159357C/5270
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png",TELECINE FUN HD
+http://axr.life:80/00005733/MF159357C/5118
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png",TELECINE FUN SD
+http://axr.life:80/00005733/MF159357C/5503
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png",TELECINE PIPOCA FHD
+http://axr.life:80/00005733/MF159357C/5271
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png",TELECINE PIPOCA HD
+http://axr.life:80/00005733/MF159357C/5119
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png",TELECINE PIPOCA SD
+http://axr.life:80/00005733/MF159357C/5504
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png",TELECINE PREMIUM FHD
+http://axr.life:80/00005733/MF159357C/5272
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png",TELECINE PREMIUM HD
+http://axr.life:80/00005733/MF159357C/5120
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png",TELECINE PREMIUM SD
+http://axr.life:80/00005733/MF159357C/5505
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png",TELECINE TOUCH FHD
+http://axr.life:80/00005733/MF159357C/5273
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png",TELECINE TOUCH HD
+http://axr.life:80/00005733/MF159357C/5121
+#EXTINF:-1 group-title="CANAIS | REDE TELECINE" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png",TELECINE TOUCH SD
+http://axr.life:80/00005733/MF159357C/5506
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png",TNT FHD
+http://axr.life:80/00005733/MF159357C/5275
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png",TNT HD
+http://axr.life:80/00005733/MF159357C/5123
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png",TNT HD (ALT)
+http://axr.life:80/00005733/MF159357C/923057
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png",TNT SD
+http://axr.life:80/00005733/MF159357C/5509
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES FHD
+http://axr.life:80/00005733/MF159357C/5276
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES FHD
+http://axr.life:80/00005733/MF159357C/923873
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES HD
+http://axr.life:80/00005733/MF159357C/5124
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES SD
+http://axr.life:80/00005733/MF159357C/5510
+#EXTINF:-1 group-title="CANAIS | ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png",TNT Sports 01
+http://axr.life:80/00005733/MF159357C/1014601
+#EXTINF:-1 group-title="CANAIS | ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png",TNT Sports 02
+http://axr.life:80/00005733/MF159357C/1014602
+#EXTINF:-1 group-title="CANAIS | ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png",TNT Sports 03
+http://axr.life:80/00005733/MF159357C/1014603
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png",UNIVERSAL TV FHD
+http://axr.life:80/00005733/MF159357C/5280
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png",UNIVERSAL TV HD
+http://axr.life:80/00005733/MF159357C/5129
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png",UNIVERSAL TV SD
+http://axr.life:80/00005733/MF159357C/5535
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL FHD
+http://axr.life:80/00005733/MF159357C/5282
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL HD
+http://axr.life:80/00005733/MF159357C/5132
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",Warner Channel HD
+http://axr.life:80/00005733/MF159357C/994818
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL HD (ALT 2)
+http://axr.life:80/00005733/MF159357C/994819
+#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL SD
+http://axr.life:80/00005733/MF159357C/5531
 #EXTINF: -1 tvg-id="DarkMatterTVBrazil.br" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Brazil", Dark Matter TV Brazil (720p)
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Brazil", Retrô Cartoon (480p) [Not 24/7]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF: -1  group-title="Brazil", SBT TV Jornal 
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w879884172.m3u8
-#EXTINF: -1 tvg-id="TVCamara2.br" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil", TV Câmara 2 (1080p) [Not 24/7]
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF: -1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil", TV Câmara (1080p)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF: -1 group-title="Brazil", RBTV
-http://45.35.130.38/live/4719wil/452540/90269.m3u8?token=R25pTUZCdXRGVGltQWJB
-#EXTINF: -1 group-title="Brazil", TV Brasil
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLswMpqWbZzigVWV5WDf_YBVJJ186WVabC3SNJPz_gQBn)/dm/3/x82pp99/d/live-3.m3u8
-#EXTINF: -1 group-title="Brazil", TV Gazeta
-http://66.90.84.98/live/4719wil/452540/90011.m3u8?token=VXJnMFl0ZUNnZW1DQ1lt
-#EXTINF: -1 group-title="Brazil", TV Nova Nordeste
-https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
-#EXTINF: -1 group-title="Brazil", TV Pernambuco
-https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm40q6sWLKal-JZMV1Mv9bNv3rCth-Wo0YcS_oF8KCvr1S)/dm/3/x83gdzr/s/live-1.m3u8
-#EXTINF: -1 group-title="Brazil", Espn
-http://66.90.68.98/hls/b4dd83ab579657ee5404c51d1975b05c/89963_622.ts
-#EXTINF: -1 group-title="Brazil", Telecine Premium
-http://66.90.84.98/live/4719wil/452540/90379.m3u8?token=Vm5DVmFmd3NNNnFMYWF1
-#EXTINF: -1 group-title="Brazil", Telecine action
-http://50.7.34.154/hls/290eeb9953157de7221555a4714753ec/90362_603.ts
-#EXTINF: -1 group-title="Brazil", Telecine Pipoca
-http://66.90.84.98/live/4719wil/452540/90375.m3u8?token=S2NuaUh3T01aREJKM0Yw
-#EXTINF: -1 group-title="Brazil", Telecine Touch
-http://66.90.84.98/live/4719wil/452540/90383.m3u8?token=bGJreFBMRkJ6MlNGRFdG
-#EXTINF: -1 group-title="Brazil", Telecine Cult
-http://66.90.84.98/live/4719wil/452540/90367.m3u8?token=M0lZNGM4WGtmSXNoUlJZ
-#EXTINF: -1 group-title="Brazil", Telecine Fun
-http://45.35.130.38/live/4719wil/452540/90372.m3u8?token=WFNXTGZ6WnlockNLdllt
-#EXTINF: -1 group-title="Brazil", Warner
-http://66.90.84.98/hls/0d3139dacca66ffc7723543725ee8952/90445_466.ts
-#EXTINF: -1 group-title="Brazil", Universal Studio
-http://66.90.84.98/live/4719wil/452540/90349.m3u8?token=TTRkY3JicWFxM3VFaVJC
-#EXTINF: -1 group-title="Brazil", TNT Séries
-http://66.90.84.98/live/4719wil/452540/90397.m3u8?token=bTVIUWZZZXhFTGljZEEy
-#EXTINF: -1 group-title="Brazil", TNT
-http://45.35.130.38/live/4719wil/452540/90394.m3u8?token=M3hHdEk2RWZWZkhsYjVq
 
 
 
@@ -140,6 +368,274 @@ http://190.122.96.187:8888/http/002
 #EXTINF: -1 tvg-id="Canal10Cancun.mx" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Mexico", Canal 10 Cancún (720p) [Not 24/7]
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
+#EXTINF:-1 group-title="ECUADOR",ECUADOR  | Teleamazonas FHD
+http://axr.life:80/00005733/MF159357C/998372
+#EXTINF:-1 group-title="ECUADOR",ECUADOR - LS | GOL TV OPC 1
+http://axr.life:80/00005733/MF159357C/998407
+#EXTINF:-1 group-title="ECUADOR",ECUADOR - LS | GOL TV OPC 2
+http://axr.life:80/00005733/MF159357C/998406
+#EXTINF:-1 group-title="ECUADOR",ECUADOR - LS | GOL TV OPC 3
+http://axr.life:80/00005733/MF159357C/998405
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Canal Uno HD
+http://axr.life:80/00005733/MF159357C/998396
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Canal Uno SD
+http://axr.life:80/00005733/MF159357C/998397
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Canela TV SD
+http://axr.life:80/00005733/MF159357C/998398
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | DIRECTV SPORTS FHD
+http://axr.life:80/00005733/MF159357C/998377
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | DIRECTV SPORTS HD
+http://axr.life:80/00005733/MF159357C/998376
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | DIRECTV SPORTS SD
+http://axr.life:80/00005733/MF159357C/998375
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Ecuador TV FHD
+http://axr.life:80/00005733/MF159357C/998378
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Ecuador TV HD
+http://axr.life:80/00005733/MF159357C/998379
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Ecuador TV SD
+http://axr.life:80/00005733/MF159357C/998380
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Ecuavisa FHD
+http://axr.life:80/00005733/MF159357C/998381
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Ecuavisa HD
+http://axr.life:80/00005733/MF159357C/998382
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Ecuavisa SD
+http://axr.life:80/00005733/MF159357C/998383
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Ecuavisa Sierra
+http://axr.life:80/00005733/MF159357C/998374
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)
+http://axr.life:80/00005733/MF159357C/998401
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | EL CANAL DEL FUTBOL HD (SOLO EVENTOS)
+http://axr.life:80/00005733/MF159357C/998402
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | EL CANAL DEL FUTBOL SD (SOLO EVENTOS)
+http://axr.life:80/00005733/MF159357C/998403
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Gamavision
+http://axr.life:80/00005733/MF159357C/998404
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | GOL TV HD
+http://axr.life:80/00005733/MF159357C/998400
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Gol TV SD
+http://axr.life:80/00005733/MF159357C/998384
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | GOLTV ECUADOR HD
+http://axr.life:80/00005733/MF159357C/998399
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Oromar TV FHD
+http://axr.life:80/00005733/MF159357C/998385
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Oromar TV HD
+http://axr.life:80/00005733/MF159357C/998386
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | RTS FHD
+http://axr.life:80/00005733/MF159357C/998387
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | RTS HD
+http://axr.life:80/00005733/MF159357C/998388
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | RTS SD
+http://axr.life:80/00005733/MF159357C/998389
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | TC Television FHD
+http://axr.life:80/00005733/MF159357C/998390
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | TC Television HD
+http://axr.life:80/00005733/MF159357C/998391
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | TC Television SD
+http://axr.life:80/00005733/MF159357C/998392
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Teleamazonas
+http://axr.life:80/00005733/MF159357C/998393
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Teleamazonas HD
+http://axr.life:80/00005733/MF159357C/998394
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | Teleamazonas Sierra
+http://axr.life:80/00005733/MF159357C/998373
+#EXTINF:-1 group-title="ECUADOR",ECUADOR | TVC FHD
+http://axr.life:80/00005733/MF159357C/998395
+
+#EXTINF:-1 group-title="FRANCA",FR: 13 EME RUE FHD
+http://axr.life:80/00005733/MF159357C/997996
+#EXTINF:-1 group-title="FRANCA",FR: 6ter FHD
+http://axr.life:80/00005733/MF159357C/997997
+#EXTINF:-1 group-title="FRANCA",FR: AB1 FHD
+http://axr.life:80/00005733/MF159357C/997993
+#EXTINF:-1 group-title="FRANCA",FR: AB3 HD
+http://axr.life:80/00005733/MF159357C/997994
+#EXTINF:-1 group-title="FRANCA",FR: ACTION HD
+http://axr.life:80/00005733/MF159357C/997995
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports 1 FHD
+http://axr.life:80/00005733/MF159357C/997951
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports 1 HD
+http://axr.life:80/00005733/MF159357C/997953
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports 2 HD
+http://axr.life:80/00005733/MF159357C/997954
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports 3 FHD
+http://axr.life:80/00005733/MF159357C/997952
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports 3 HD
+http://axr.life:80/00005733/MF159357C/997955
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports Max 10 HD
+http://axr.life:80/00005733/MF159357C/997962
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports Max 4 HD
+http://axr.life:80/00005733/MF159357C/997956
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports Max 5 HD
+http://axr.life:80/00005733/MF159357C/997957
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports Max 6 HD
+http://axr.life:80/00005733/MF159357C/997958
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports Max 7 HD
+http://axr.life:80/00005733/MF159357C/997959
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports Max 8 HD
+http://axr.life:80/00005733/MF159357C/997960
+#EXTINF:-1 group-title="FRANCA",FR: beIN Sports Max 9 HD
+http://axr.life:80/00005733/MF159357C/997961
+#EXTINF:-1 group-title="FRANCA",FR: BET HD
+http://axr.life:80/00005733/MF159357C/997990
+#EXTINF:-1 group-title="FRANCA",FR: BFM Business HD
+http://axr.life:80/00005733/MF159357C/997991
+#EXTINF:-1 group-title="FRANCA",FR: BFM HD
+http://axr.life:80/00005733/MF159357C/997992
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Cinema FHD
+http://axr.life:80/00005733/MF159357C/997969
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ COMEDIE
+http://axr.life:80/00005733/MF159357C/997970
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Decale FHD
+http://axr.life:80/00005733/MF159357C/997971
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Family FHD
+http://axr.life:80/00005733/MF159357C/997972
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ FHD
+http://axr.life:80/00005733/MF159357C/997973
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ J HD
+http://axr.life:80/00005733/MF159357C/997974
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Series FHD
+http://axr.life:80/00005733/MF159357C/997975
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Sport FHD
+http://axr.life:80/00005733/MF159357C/997976
+#EXTINF:-1 group-title="FRANCA",FR: CARTOON NETWORK FHD
+http://axr.life:80/00005733/MF159357C/997977
+#EXTINF:-1 group-title="FRANCA",FR: CHASSE ET PECHE HD
+http://axr.life:80/00005733/MF159357C/997978
+#EXTINF:-1 group-title="FRANCA",FR: Cherie 25 FHD
+http://axr.life:80/00005733/MF159357C/997979
+#EXTINF:-1 group-title="FRANCA",FR: CINE+ CLASSIC FHD
+http://axr.life:80/00005733/MF159357C/997980
+#EXTINF:-1 group-title="FRANCA",FR: CINE+ CLUB FHD
+http://axr.life:80/00005733/MF159357C/997981
+#EXTINF:-1 group-title="FRANCA",FR: CINE+ EMOTION FHD
+http://axr.life:80/00005733/MF159357C/997982
+#EXTINF:-1 group-title="FRANCA",FR: CINE+ FAMIZ FHD
+http://axr.life:80/00005733/MF159357C/997983
+#EXTINF:-1 group-title="FRANCA",FR: CINE+ FRISSON FHD
+http://axr.life:80/00005733/MF159357C/997984
+#EXTINF:-1 group-title="FRANCA",FR: CINE+ PREMIER FHD
+http://axr.life:80/00005733/MF159357C/997985
+#EXTINF:-1 group-title="FRANCA",FR: Club bing TV
+http://axr.life:80/00005733/MF159357C/997986
+#EXTINF:-1 group-title="FRANCA",FR: COMEDIE
+http://axr.life:80/00005733/MF159357C/997987
+#EXTINF:-1 group-title="FRANCA",FR: COMEDIE+ FHD
+http://axr.life:80/00005733/MF159357C/997988
+#EXTINF:-1 group-title="FRANCA",FR: Crime DISTRICT FHD
+http://axr.life:80/00005733/MF159357C/997989
+#EXTINF:-1 group-title="FRANCA",FR: Discovery Channel FHD
+http://axr.life:80/00005733/MF159357C/997998
+#EXTINF:-1 group-title="FRANCA",FR: Discovery FRANCE
+http://axr.life:80/00005733/MF159357C/997999
+#EXTINF:-1 group-title="FRANCA",FR: Discovery Sci-Fi HD
+http://axr.life:80/00005733/MF159357C/998000
+#EXTINF:-1 group-title="FRANCA",FR: Discovery Science FHD
+http://axr.life:80/00005733/MF159357C/998001
+#EXTINF:-1 group-title="FRANCA",FR: Disney Channel HD
+http://axr.life:80/00005733/MF159357C/998002
+#EXTINF:-1 group-title="FRANCA",FR: Disney JR HD
+http://axr.life:80/00005733/MF159357C/998003
+#EXTINF:-1 group-title="FRANCA",FR: EUROSPORT 1 FHD
+http://axr.life:80/00005733/MF159357C/998004
+#EXTINF:-1 group-title="FRANCA",FR: EUROSPORT 2 FHD
+http://axr.life:80/00005733/MF159357C/998005
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 2 FHD
+http://axr.life:80/00005733/MF159357C/997963
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 24 HD
+http://axr.life:80/00005733/MF159357C/997967
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 3 FHD
+http://axr.life:80/00005733/MF159357C/997964
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 4 FHD
+http://axr.life:80/00005733/MF159357C/997965
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 5 FHD
+http://axr.life:80/00005733/MF159357C/997966
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE Ô FHD
+http://axr.life:80/00005733/MF159357C/997968
+#EXTINF:-1 group-title="FRANCA",FR: GULLI FHD
+http://axr.life:80/00005733/MF159357C/998006
+#EXTINF:-1 group-title="FRANCA",FR: HISTOIRE FHD
+http://axr.life:80/00005733/MF159357C/998007
+#EXTINF:-1 group-title="FRANCA",FR: LCI FHD
+http://axr.life:80/00005733/MF159357C/998008
+#EXTINF:-1 group-title="FRANCA",FR: MTV HD
+http://axr.life:80/00005733/MF159357C/998009
+#EXTINF:-1 group-title="FRANCA",FR: MTV HITS HD
+http://axr.life:80/00005733/MF159357C/998010
+#EXTINF:-1 group-title="FRANCA",FR: NAT GEO FHD
+http://axr.life:80/00005733/MF159357C/997915
+#EXTINF:-1 group-title="FRANCA",FR: NAT GEO Wild FHD
+http://axr.life:80/00005733/MF159357C/997916
+#EXTINF:-1 group-title="FRANCA",FR: NICKELODEON HD
+http://axr.life:80/00005733/MF159357C/997917
+#EXTINF:-1 group-title="FRANCA",FR: NICKELODEON JR HD
+http://axr.life:80/00005733/MF159357C/997918
+#EXTINF:-1 group-title="FRANCA",FR: nickelodeon Teen HD
+http://axr.life:80/00005733/MF159357C/997919
+#EXTINF:-1 group-title="FRANCA",FR: NJR Hits HD
+http://axr.life:80/00005733/MF159357C/997920
+#EXTINF:-1 group-title="FRANCA",FR: PARAMOUNT Channel FHD
+http://axr.life:80/00005733/MF159357C/997921
+#EXTINF:-1 group-title="FRANCA",FR: PARAMOUNT DECALE HD
+http://axr.life:80/00005733/MF159357C/997922
+#EXTINF:-1 group-title="FRANCA",FR: PLANETE+ A&E FHD
+http://axr.life:80/00005733/MF159357C/997923
+#EXTINF:-1 group-title="FRANCA",FR: PLANETE+ CI HD
+http://axr.life:80/00005733/MF159357C/997925
+#EXTINF:-1 group-title="FRANCA",FR: PLANETE+ FHD
+http://axr.life:80/00005733/MF159357C/997924
+#EXTINF:-1 group-title="FRANCA",FR: POLAR+ FHD
+http://axr.life:80/00005733/MF159357C/997926
+#EXTINF:-1 group-title="FRANCA",FR: RMC Decouverte FHD
+http://axr.life:80/00005733/MF159357C/997927
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 1 FHD
+http://axr.life:80/00005733/MF159357C/997928
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 1 HD
+http://axr.life:80/00005733/MF159357C/997929
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 10 HD
+http://axr.life:80/00005733/MF159357C/997939
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 11 HD
+http://axr.life:80/00005733/MF159357C/997940
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 12 HD
+http://axr.life:80/00005733/MF159357C/997941
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 13 HD
+http://axr.life:80/00005733/MF159357C/997942
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 2 HD
+http://axr.life:80/00005733/MF159357C/997930
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 3 FHD
+http://axr.life:80/00005733/MF159357C/997931
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 3 HD
+http://axr.life:80/00005733/MF159357C/997932
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 4 HD
+http://axr.life:80/00005733/MF159357C/997933
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 5 HD
+http://axr.life:80/00005733/MF159357C/997934
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 6 HD
+http://axr.life:80/00005733/MF159357C/997935
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 7 HD
+http://axr.life:80/00005733/MF159357C/997936
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 8 HD
+http://axr.life:80/00005733/MF159357C/997937
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT 9 HD
+http://axr.life:80/00005733/MF159357C/997938
+#EXTINF:-1 group-title="FRANCA",FR: RMC SPORT HD
+http://axr.life:80/00005733/MF159357C/997943
+#EXTINF:-1 group-title="FRANCA",FR: RMC Story FHD
+http://axr.life:80/00005733/MF159357C/997944
+#EXTINF:-1 group-title="FRANCA",FR: Science & VIE HD
+http://axr.life:80/00005733/MF159357C/997945
+#EXTINF:-1 group-title="FRANCA",FR: SEASON HD
+http://axr.life:80/00005733/MF159357C/997946
+#EXTINF:-1 group-title="FRANCA",FR: SERIE CLUB HD
+http://axr.life:80/00005733/MF159357C/997947
+#EXTINF:-1 group-title="FRANCA",FR: TF1 Series films FHD
+http://axr.life:80/00005733/MF159357C/997948
+#EXTINF:-1 group-title="FRANCA",FR: TFX FHD
+http://axr.life:80/00005733/MF159357C/997949
+#EXTINF:-1 group-title="FRANCA",FR: TV5 MONDE FRANCE FHD
+http://axr.life:80/00005733/MF159357C/997950
+
+
+
 #EXTINF: -1 tvg-id="TelevisaMonterrey.mx" tvg-logo="https://i.imgur.com/ierlYM1.jpg" group-title="Mexico", Televisa Monterrey (1080p) [Not 24/7]
 https://rr2---sn-ccjuxjicg-gxjs.googlevideo.com/videoplayback?expire=1662320500&ei=FKsUY_uUG8TJ1sQP6Ny26AY&ip=45.164.11.194&id=9MNtXARIArM.1&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=yd&mm=44%2C29&mn=sn-ccjuxjicg-gxjs%2Csn-ccjuxjicg-gxje&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=777500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=pPBNFrKZlGibvXzO6TTtcFUH&gir=yes&mt=1662298604&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&rbqsm=fr&n=LHBeD70iMhSoNw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhANO2Byh4fiF-OT1RiCkbsPakaNdNLkpWPSdJi36at-eQAiApX8B_anaVfCSGp4uVijutZ0yQ8zrzQ3TXXXrSrmmyyA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgSkXM_yfjuh-USmnwNxZYxFolyJ2uUNS9fc-AM7dGWc0CIDpTu8MV6XdV11EVAUa_xkSC2wMXJI6hY4fBulDeVugC
 
@@ -147,11 +643,119 @@ https://rr2---sn-ccjuxjicg-gxjs.googlevideo.com/videoplayback?expire=1662320500&
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b640000_slpor.m3u8?token=1662436800_16b04c525d93bd87e57878b38d27b620eb8779d5
 #EXTINF: -1 tvg-id="SIC.pt" group-title="Portugal", SIC 
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-
 #EXTINF: -1 tvg-id="TVI.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="Portugal", TVI (480p)
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF: -1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/08xTtYD.png" group-title="Portugal", TVI Reality (480p)
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 group-title="PORTUGAL",PT | GLOBO PORTUGAL | HD
+http://axr.life:80/00005733/MF159357C/998151
+#EXTINF:-1 group-title="PORTUGAL",PT | GLOBO PREMIUM | SD
+http://axr.life:80/00005733/MF159357C/998159
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP 2 FHD
+http://axr.life:80/00005733/MF159357C/998164
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP 2 | UHD
+http://axr.life:80/00005733/MF159357C/998078
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP ACORES | SD
+http://axr.life:80/00005733/MF159357C/998137
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP INTERNATIONAL | HD
+http://axr.life:80/00005733/MF159357C/998165
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP MADEIRA | SD
+http://axr.life:80/00005733/MF159357C/998138
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP MEMORIA | SD
+http://axr.life:80/00005733/MF159357C/998139
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC CARAS | SD
+http://axr.life:80/00005733/MF159357C/998140
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC KIDS | SD
+http://axr.life:80/00005733/MF159357C/998141
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC MULHER | SD
+http://axr.life:80/00005733/MF159357C/998142
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC RADICAL | SD
+http://axr.life:80/00005733/MF159357C/998143
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC | UHD
+http://axr.life:80/00005733/MF159357C/998079
+#EXTINF:-1 group-title="PORTUGAL",PT | TVI 24 | SD
+http://axr.life:80/00005733/MF159357C/998155
+#EXTINF:-1 group-title="PORTUGAL",PT | TVI FICCAO | SD
+http://axr.life:80/00005733/MF159357C/998156
+#EXTINF:-1 group-title="PORTUGAL",PT | TVI REALITY | SD
+http://axr.life:80/00005733/MF159357C/998153
+#EXTINF:-1 group-title="PORTUGAL",PT | TVI | UHD
+http://axr.life:80/00005733/MF159357C/998089
+#EXTINF:-1 group-title="PORTUGAL",PT | VH1 | SD
+http://axr.life:80/00005733/MF159357C/998157
+#EXTINF:-1 group-title="PORTUGAL",PT | ZAP VIVA | HD
+http://axr.life:80/00005733/MF159357C/998150
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 1 FHD
+http://axr.life:80/00005733/MF159357C/998162
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 3 FHD
+http://axr.life:80/00005733/MF159357C/998163
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC NOTICIAS FHD
+http://axr.life:80/00005733/MF159357C/998161
+#EXTINF:-1 group-title="PORTUGAL",PT: TCV CABO
+http://axr.life:80/00005733/MF159357C/998167
+
+EXTINF:-1 group-title="PERU",PERU | +CAPITAL TV
+http://axr.life:80/00005733/MF159357C/998267
+#EXTINF:-1 group-title="PERU",PERU | America TV FHD
+http://axr.life:80/00005733/MF159357C/998281
+#EXTINF:-1 group-title="PERU",PERU | America TV HD
+http://axr.life:80/00005733/MF159357C/998258
+#EXTINF:-1 group-title="PERU",PERU | ATV
+http://axr.life:80/00005733/MF159357C/998260
+#EXTINF:-1 group-title="PERU",PERU | CANAL N HD
+http://axr.life:80/00005733/MF159357C/998268
+#EXTINF:-1 group-title="PERU",PERU | CAPITAL TV HD
+http://axr.life:80/00005733/MF159357C/998292
+#EXTINF:-1 group-title="PERU",PERU | Cultura 24 TV
+http://axr.life:80/00005733/MF159357C/998280
+#EXTINF:-1 group-title="PERU",PERU | ESPN 2 PERU HD (E)
+http://axr.life:80/00005733/MF159357C/998291
+#EXTINF:-1 group-title="PERU",PERU | EXITOSA TV
+http://axr.life:80/00005733/MF159357C/998269
+#EXTINF:-1 group-title="PERU",PERU | Gol Peru FHD
+http://axr.life:80/00005733/MF159357C/998271
+#EXTINF:-1 group-title="PERU",PERU | Gol Peru HD
+http://axr.life:80/00005733/MF159357C/998272
+#EXTINF:-1 group-title="PERU",PERU | Gol Peru SD
+http://axr.life:80/00005733/MF159357C/998273
+#EXTINF:-1 group-title="PERU",PERU | GOLPERU HD (E)
+http://axr.life:80/00005733/MF159357C/998289
+#EXTINF:-1 group-title="PERU",PERU | IPE
+http://axr.life:80/00005733/MF159357C/998277
+#EXTINF:-1 group-title="PERU",PERU | Latina TV HD
+http://axr.life:80/00005733/MF159357C/998263
+#EXTINF:-1 group-title="PERU",PERU | Latina TV SD
+http://axr.life:80/00005733/MF159357C/998262
+#EXTINF:-1 group-title="PERU",PERU | M. DEPORTES HD (E)
+http://axr.life:80/00005733/MF159357C/998290
+#EXTINF:-1 group-title="PERU",PERU | MONTERRICO TV
+http://axr.life:80/00005733/MF159357C/998294
+#EXTINF:-1 group-title="PERU",PERU | MOVISTAR DEPORTES
+http://axr.life:80/00005733/MF159357C/998264
+#EXTINF:-1 group-title="PERU",PERU | Peru Magico FHD
+http://axr.life:80/00005733/MF159357C/998276
+#EXTINF:-1 group-title="PERU",PERU | RPP HD (E)
+http://axr.life:80/00005733/MF159357C/998286
+#EXTINF:-1 group-title="PERU",PERU | TV PERU HD (E)
+http://axr.life:80/00005733/MF159357C/998288
+#EXTINF:-1 group-title="PERU",PERU | TV PERU SD (E)
+http://axr.life:80/00005733/MF159357C/998293
+#EXTINF:-1 group-title="PERU",PERU | VISION TV MUSICA
+http://axr.life:80/00005733/MF159357C/998278
+#EXTINF:-1 group-title="PERU",PERU | Willax
+http://axr.life:80/00005733/MF159357C/998261
+#EXTINF:-1 group-title="PERU",PL | Comedy Central Poland HD
+http://axr.life:80/00005733/MF159357C/998169
+#EXTINF:-1 group-title="PERU",PL | Disco Polo Music
+http://axr.life:80/00005733/MF159357C/998170
+#EXTINF:-1 group-title="PERU",PL | KINO POLSKA
+http://axr.life:80/00005733/MF159357C/998171
+#EXTINF:-1 group-title="PERU",PL | Kino Polska Muzyka
+http://axr.life:80/00005733/MF159357C/998172
+#EXTINF:-1 group-title="PERU",PL | MTV Polska HD
+http://axr.life:80/00005733/MF159357C/998173
+#EXTINF:-1 group-title="PERU",PL | Polsat Sport Premium 1 FHD
+http://axr.life:80/00005733/MF159357C/998168
 
 #EXTINF: -1 tvg-id="TV4LaVall.es" tvg-logo="https://i.imgur.com/zoe4DhL.png" group-title="Spain", Cuatro 4 TV Vall Uxa (1080p) [Not 24/7]
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
@@ -224,19 +828,14 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
 #EXTINF: -1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States", WABC-DT1 (ABC 7) (720p)
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-
 #EXTINF: -1 tvg-id="PeopleTV.us" tvg-logo="https://i.imgur.com/7SarjaU.png" group-title="United States", People TV (1080p)
 https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
-
 #EXTINF: -1 tvg-id="KTLADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="United States", The CW Los Angeles CA (KTLA-DT1) (720p) 
 http://190.80.3.28/CW/CW.isml/index.m3u8
-
 #EXTINF: -1 tvg-id="TheRetroChannel.us" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="United States", The Retro Channel (1080p) [Not 24/7]
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
 #EXTINF: -1 tvg-id="USAToday.us" tvg-logo="https://i.imgur.com/K9OdCIV.png" group-title="United States", USA Today (1080p)
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
-
 #EXTINF: -1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States", WCBS-DT1 (CBS 2) (1080p)
 http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
 #EXTINF: -1 group-title="United States", Univision
@@ -261,8 +860,179 @@ http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
 #EXTINF: -1 tvg-id="WNYWDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/512px-Movies%21_logo.svg.png" group-title="United States", WNYW-DT2 (Movies!)
 http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
 
-#EXTINF: -1 group-title="unkown"
-http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
+#EXTINF:-1 group-title="URUGUAY",URUGUAY - LS | VTV OPC 1
+http://axr.life:80/00005733/MF159357C/998321
+#EXTINF:-1 group-title="URUGUAY",URUGUAY - LS | VTV OPC 2
+http://axr.life:80/00005733/MF159357C/998324
+#EXTINF:-1 group-title="URUGUAY",URUGUAY - LS | VTV OPC 3
+http://axr.life:80/00005733/MF159357C/998322
+#EXTINF:-1 group-title="URUGUAY",URUGUAY - LS | VTV OPC 4
+http://axr.life:80/00005733/MF159357C/998323
+#EXTINF:-1 group-title="URUGUAY",URUGUAY |  LA RED
+http://axr.life:80/00005733/MF159357C/998320
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | *VTV
+http://axr.life:80/00005733/MF159357C/998316
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | Canal 10 SD
+http://axr.life:80/00005733/MF159357C/998300
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | Canal 12 SD
+http://axr.life:80/00005733/MF159357C/998318
+#EXTINF:-1 group-title="URUGUAY",Uruguay | CANAL 4 FHD
+http://axr.life:80/00005733/MF159357C/998317
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | Canal 4 SD
+http://axr.life:80/00005733/MF159357C/998319
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | Canal M
+http://axr.life:80/00005733/MF159357C/998308
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | Teledoce HD
+http://axr.life:80/00005733/MF159357C/998301
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | TV Ciudad
+http://axr.life:80/00005733/MF159357C/998302
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | VERA + HD
+http://axr.life:80/00005733/MF159357C/998315
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | VTV HD
+http://axr.life:80/00005733/MF159357C/998303
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | VTV Plus HD
+http://axr.life:80/00005733/MF159357C/998314
+#EXTINF:-1 group-title="URUGUAY",URUGUAY | VTV SD
+http://axr.life:80/00005733/MF159357C/998313
 
-#EXTINF: -1 group-title="US TV GO"
-http://127.0.0.1:6363/ustvgo.m3u8
+
+#EXTINF:-1 group-title="PERU",VENEZUELA  | TV FAMILIA
+http://axr.life:80/00005733/MF159357C/998225
+#EXTINF:-1 group-title="PERU",Venezuela | ANTV
+http://axr.life:80/00005733/MF159357C/998229
+#EXTINF:-1 group-title="PERU",VENEZUELA | CORAZON LLANERO
+http://axr.life:80/00005733/MF159357C/998243
+#EXTINF:-1 group-title="PERU",VENEZUELA | IVC NETWORKS (L)
+http://axr.life:80/00005733/MF159357C/998244
+#EXTINF:-1 group-title="PERU",VENEZUELA | MERIDIANO TV opc 1
+http://axr.life:80/00005733/MF159357C/998226
+#EXTINF:-1 group-title="PERU",Venezuela | Meridiano TV opc 2
+http://axr.life:80/00005733/MF159357C/998231
+#EXTINF:-1 group-title="PERU",VENEZUELA | Promar TV
+http://axr.life:80/00005733/MF159357C/998237
+#EXTINF:-1 group-title="PERU",VENEZUELA | RETRO PLUS TV
+http://axr.life:80/00005733/MF159357C/998240
+#EXTINF:-1 group-title="PERU",VENEZUELA | TELEVEN
+http://axr.life:80/00005733/MF159357C/998235
+#EXTINF:-1 group-title="PERU",VENEZUELA | TVES
+http://axr.life:80/00005733/MF159357C/998236
+#EXTINF:-1 group-title="PERU",VENEZUELA | VENEVISION PLUS
+http://axr.life:80/00005733/MF159357C/998227
+#EXTINF:-1 group-title="PERU",VENEZUELA | VIVE TV opc 1
+http://axr.life:80/00005733/MF159357C/998228
+#EXTINF:-1 group-title="PERU",Venezuela* | Canal i
+http://axr.life:80/00005733/MF159357C/998224
+#EXTINF:-1 group-title="PERU",Venezuela* | TV ConCiencia
+http://axr.life:80/00005733/MF159357C/998223
+#EXTINF:-1 group-title="PERU",Venezuela* | Vale TV
+http://axr.life:80/00005733/MF159357C/998222
+#EXTINF:-1 group-title="PERU",Venezuela* | Vive Television
+http://axr.life:80/00005733/MF159357C/998220
+
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | 45 TV
+http://axr.life:80/00005733/MF159357C/998022
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Azteca Honduras
+http://axr.life:80/00005733/MF159357C/998018
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Campus tv
+http://axr.life:80/00005733/MF159357C/998044
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | CANAL 10 HD
+http://axr.life:80/00005733/MF159357C/998025
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Canal 11 HD
+http://axr.life:80/00005733/MF159357C/998032
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Canal 5
+http://axr.life:80/00005733/MF159357C/998033
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | CANAL 5 HD
+http://axr.life:80/00005733/MF159357C/998023
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | CANAL 6 HD
+http://axr.life:80/00005733/MF159357C/998024
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | HCH
+http://axr.life:80/00005733/MF159357C/998034
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | HCH OPC 2
+http://axr.life:80/00005733/MF159357C/998043
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Lenca TV
+http://axr.life:80/00005733/MF159357C/998045
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | MEGA TV HD
+http://axr.life:80/00005733/MF159357C/998026
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | SI-TV
+http://axr.life:80/00005733/MF159357C/998035
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | SITV
+http://axr.life:80/00005733/MF159357C/998029
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Suyapa
+http://axr.life:80/00005733/MF159357C/998036
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TDTV
+http://axr.life:80/00005733/MF159357C/998031
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TeleCadena  SD
+http://axr.life:80/00005733/MF159357C/998037
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Telecadena HD
+http://axr.life:80/00005733/MF159357C/998021
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Teleceiba
+http://axr.life:80/00005733/MF159357C/998038
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Teleceiba SD
+http://axr.life:80/00005733/MF159357C/998020
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TELEPROGRESO
+http://axr.life:80/00005733/MF159357C/998027
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TeleSistema
+http://axr.life:80/00005733/MF159357C/998039
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Telesistema SD
+http://axr.life:80/00005733/MF159357C/998019
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TEN Canal 10
+http://axr.life:80/00005733/MF159357C/998042
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TSI
+http://axr.life:80/00005733/MF159357C/998040
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TSI HD
+http://axr.life:80/00005733/MF159357C/998028
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | UNE TV
+http://axr.life:80/00005733/MF159357C/998030
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | VTV Honduras
+http://axr.life:80/00005733/MF159357C/998041
+
+
+#EXTINF:-1 group-title="CHILE",CANAL 13 CHILE CL
+http://axr.life:80/00005733/MF159357C/997577
+#EXTINF:-1 group-title="CHILE",CHILE  | Canal 13 SD
+http://axr.life:80/00005733/MF159357C/997570
+#EXTINF:-1 group-title="CHILE",CHILE  | Chilevision FHD
+http://axr.life:80/00005733/MF159357C/997567
+#EXTINF:-1 group-title="CHILE",CHILE  | Emol TV
+http://axr.life:80/00005733/MF159357C/997572
+#EXTINF:-1 group-title="PERU",CHILE  | La Red HD
+http://axr.life:80/00005733/MF159357C/998255
+#EXTINF:-1 group-title="CHILE",CHILE  | Mega FHD
+http://axr.life:80/00005733/MF159357C/997574
+#EXTINF:-1 group-title="CHILE",CHILE  | Mega HD
+http://axr.life:80/00005733/MF159357C/997573
+#EXTINF:-1 group-title="CHILE",CHILE  | T13 Noticias
+http://axr.life:80/00005733/MF159357C/997571
+#EXTINF:-1 group-title="CHILE",CHILE  | Teletrak chile
+http://axr.life:80/00005733/MF159357C/997575
+#EXTINF:-1 group-title="CHILE",CHILE  | TVN Culto (GEO)
+http://axr.life:80/00005733/MF159357C/997568
+#EXTINF:-1 group-title="CHILE",CHILE  | TVN HD
+http://axr.life:80/00005733/MF159357C/997569
+#EXTINF:-1 group-title="CHILE",Chile | CANAL 13 C HD
+http://axr.life:80/00005733/MF159357C/997582
+#EXTINF:-1 group-title="CHILE",CHILE | CANAL 13 FHD
+http://axr.life:80/00005733/MF159357C/997580
+#EXTINF:-1 group-title="CHILE",CHILE | Chilevision HD
+http://axr.life:80/00005733/MF159357C/997566
+#EXTINF:-1 group-title="CHILE",CHILE | ETC TV CHILE
+http://axr.life:80/00005733/MF159357C/997586
+#EXTINF:-1 group-title="CHILE",CHILE | Mega HD OPC 2
+http://axr.life:80/00005733/MF159357C/997578
+#EXTINF:-1 group-title="CHILE",CHILE | Mega SD
+http://axr.life:80/00005733/MF159357C/997579
+#EXTINF:-1 group-title="CHILE",CHILE | REC TV
+http://axr.life:80/00005733/MF159357C/997584
+#EXTINF:-1 group-title="CHILE",CHILE | TNT SPORTS  HD (E)
+http://axr.life:80/00005733/MF159357C/997564
+#EXTINF:-1 group-title="CHILE",CHILE | TNT SPORTS BASICO HD
+http://axr.life:80/00005733/MF159357C/997576
+#EXTINF:-1 group-title="CHILE",CHILE | TNT SPORTS PREMIUM HD
+http://axr.life:80/00005733/MF159357C/997565
+#EXTINF:-1 group-title="CHILE",CHILE | TV+
+http://axr.life:80/00005733/MF159357C/997585
+#EXTINF:-1 group-title="CHILE",CHILE | TVN SD
+http://axr.life:80/00005733/MF159357C/997583
+#EXTINF:-1 group-title="CHILE",Chile | TVU Concepcion
+http://axr.life:80/00005733/MF159357C/997581
+
