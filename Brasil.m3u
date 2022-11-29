@@ -1,0 +1,487 @@
+#EXTM3U 
+
+Brasil
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E HD
+http://axr.life:80/096154/686531/5040
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E SD
+http://axr.life:80/096154/686531/5394
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png",AMC HD
+http://axr.life:80/096154/686531/5041
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png",AMC SD
+http://axr.life:80/096154/686531/5395
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png",AXN HD
+http://axr.life:80/096154/686531/5043
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png",AXN SD
+http://axr.life:80/096154/686531/5397
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png",CANAL SONY HD
+http://axr.life:80/096154/686531/5046
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png",CANAL SONY SD
+http://axr.life:80/096154/686531/5407
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png",CINE CANAL HD
+http://axr.life:80/096154/686531/923563
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 1  FHD
+http://axr.life:80/096154/686531/923651
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 2 FHD
+http://axr.life:80/096154/686531/923652
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 3  FHD
+http://axr.life:80/096154/686531/923653
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 4 FHD
+http://axr.life:80/096154/686531/923654
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg",CINE SKY 5 FHD
+http://axr.life:80/096154/686531/923655
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png",COMEDY CENTRAL HD
+http://axr.life:80/096154/686531/5050
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png",COMEDY CENTRAL SD
+http://axr.life:80/096154/686531/5412
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png",CINEMAX HD
+http://axr.life:80/096154/686531/5048
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png",CINEMAX SD
+http://axr.life:80/096154/686531/5410
+#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png",CURTA! SD
+http://axr.life:80/096154/686531/5413
+#EXTINF:-1 group-title="CANAIS | VARIEDADES" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png",FILM & ARTS SD
+http://axr.life:80/096154/686531/923436
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png",FX HD
+http://axr.life:80/096154/686531/5073
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png",FX SD
+http://axr.life:80/096154/686531/5436
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png",HBO 2 HD
+http://axr.life:80/096154/686531/5078
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png",HBO 2 SD
+http://axr.life:80/096154/686531/5449
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO FAMILY HD
+http://axr.life:80/096154/686531/5079
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://i.imgur.com/alOqjXS.png",HBO FAMILY SD
+http://axr.life:80/096154/686531/5446
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO HD
+http://axr.life:80/096154/686531/355046
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 1 HD
+http://axr.life:80/096154/686531/355727
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 1 HD
+http://axr.life:80/096154/686531/923173
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 2 HD
+http://axr.life:80/096154/686531/355728
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 2 HD
+http://axr.life:80/096154/686531/923174
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 3 HD
+http://axr.life:80/096154/686531/355729
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 3 HD
+http://axr.life:80/096154/686531/923175
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 4 HD
+http://axr.life:80/096154/686531/355730
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/MA5mS1l.png",HBO MAX 4 HD
+http://axr.life:80/096154/686531/923176
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI HD
+http://axr.life:80/096154/686531/5087
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png",HBO MUNDI SD
+http://axr.life:80/096154/686531/923558
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS HD
+http://axr.life:80/096154/686531/923015
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png",HBO PLUS SD
+http://axr.life:80/096154/686531/923455
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP HD
+http://axr.life:80/096154/686531/5089
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png",HBO POP SD
+http://axr.life:80/096154/686531/923559
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO SD
+http://axr.life:80/096154/686531/5445
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO SD
+http://axr.life:80/096154/686531/5447
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png",HBO SIGNATURE HD
+http://axr.life:80/096154/686531/45334
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png",HBO SIGNATURE SD
+http://axr.life:80/096154/686531/5448
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png",HBO XTREME HD
+http://axr.life:80/096154/686531/5088
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png",TLC HD
+http://axr.life:80/096154/686531/354854
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png",TLC HD
+http://axr.life:80/096154/686531/923056
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png",TLC SD
+http://axr.life:80/096154/686531/5500
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png",TNT HD
+http://axr.life:80/096154/686531/5123
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png",TNT HD
+http://axr.life:80/096154/686531/923057
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png",TNT SD
+http://axr.life:80/096154/686531/5509
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES HD
+http://axr.life:80/096154/686531/5124
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES SD
+http://axr.life:80/096154/686531/5510
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL HD
+http://axr.life:80/096154/686531/5132
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",Warner Channel HD
+http://axr.life:80/096154/686531/994818
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL HD (ALT 2)
+http://axr.life:80/096154/686531/994819
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL SD
+http://axr.life:80/096154/686531/5531
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0d90b8020095e260c48_Maxprime.png",MAX PRIME SD
+http://axr.life:80/096154/686531/923464
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://4.bp.blogspot.com/-9SgIbyE-WH8/Ux98igqHkKI/AAAAAAAAhps/Zcykxtj8x50/s1600/Max_logo.png",MAX SD
+http://axr.life:80/096154/686531/923463
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png",PARAMOUNT HD
+http://axr.life:80/096154/686531/5099
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png",PARAMOUNT SD
+http://axr.life:80/096154/686531/5469
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png",SPACE HD
+http://axr.life:80/096154/686531/5109
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png",SPACE SD
+http://axr.life:80/096154/686531/49321
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR + 2 HD
+http://axr.life:80/096154/686531/923177
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR + 3 HD
+http://axr.life:80/096154/686531/923178
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR + HD
+http://axr.life:80/096154/686531/923172
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png",STAR CHANNEL HD
+http://axr.life:80/096154/686531/5067
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png",STAR CHANNEL SD
+http://axr.life:80/096154/686531/5817
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 1 HD
+http://axr.life:80/096154/686531/442153
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 2 HD
+http://axr.life:80/096154/686531/442154
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://i.imgur.com/fKYD2IF.png",STAR+ 3 HD
+http://axr.life:80/096154/686531/442155
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png",TBS HD
+http://axr.life:80/096154/686531/5115
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png",TBS SD
+http://axr.life:80/096154/686531/923506
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM HD
+http://axr.life:80/096154/686531/923103
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM SD
+http://axr.life:80/096154/686531/923507
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png",TELECINE ACTION HD
+http://axr.life:80/096154/686531/5116
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png",TELECINE ACTION SD
+http://axr.life:80/096154/686531/5501
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png",TELECINE CULT HD
+http://axr.life:80/096154/686531/5117
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png",TELECINE CULT SD
+http://axr.life:80/096154/686531/5502
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png",TELECINE FUN HD
+http://axr.life:80/096154/686531/5118
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png",TELECINE FUN SD
+http://axr.life:80/096154/686531/5503
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png",TELECINE PIPOCA HD
+http://axr.life:80/096154/686531/5119
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png",TELECINE PIPOCA SD
+http://axr.life:80/096154/686531/5504
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png",TELECINE PREMIUM HD
+http://axr.life:80/096154/686531/5120
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png",TELECINE PREMIUM SD
+http://axr.life:80/096154/686531/5505
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png",TELECINE TOUCH HD
+http://axr.life:80/096154/686531/5121
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png",TELECINE TOUCH SD
+http://axr.life:80/096154/686531/5506
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",BOOMERANG FHD
+http://axr.life:80/096154/686531/923848
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png",CARTOON NETWORK HD
+http://axr.life:80/096154/686531/5047
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png",CARTOON NETWORK SD
+http://axr.life:80/096154/686531/5409
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://abral.org.br/wp-content/uploads/2021/12/Cartonito1.png",CARTOONITO HD
+http://axr.life:80/096154/686531/17924
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://abral.org.br/wp-content/uploads/2021/12/Cartonito1.png",CARTOONITO SD
+http://axr.life:80/096154/686531/5404
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverykids.png",DISCOVERY KIDS HD
+http://axr.life:80/096154/686531/922991
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png",DISCOVERY KIDS SD
+http://axr.life:80/096154/686531/5416
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/UkI8z8.png",TOONCAST HD
+http://axr.life:80/096154/686531/5511
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/UkI8z8.png",TOONCAST SD
+http://axr.life:80/096154/686531/923518
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png",ZOOMOO FHD
+http://axr.life:80/096154/686531/923858
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png",ZOOMOO HD
+http://axr.life:80/096154/686531/5533
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="http://logocanais.ddns.net/Logo/disney1.png",DISNEY CHANNEL HD
+http://axr.life:80/096154/686531/5059
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="http://logocanais.ddns.net/Logo/disney1.png",DISNEY CHANNEL SD
+http://axr.life:80/096154/686531/5418
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png",NICK JR HD
+http://axr.life:80/096154/686531/45295
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png",NICK JR SD
+http://axr.life:80/096154/686531/5466
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png",NICKELODEON HD
+http://axr.life:80/096154/686531/5096
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png",NICKELODEON SD
+http://axr.life:80/096154/686531/5467
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://cdn.mitvstatic.com/channels/br_ra-tim-bum-1_m.png",TV RA TIM BUM HD
+http://axr.life:80/096154/686531/5127
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://cdn.mitvstatic.com/channels/br_ra-tim-bum-1_m.png",TV RA TIM BUM SD
+http://axr.life:80/096154/686531/5521
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png",BAND SPORTS HD
+http://axr.life:80/096154/686531/5044
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png",BAND SPORTS SD
+http://axr.life:80/096154/686531/5402
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png",COMBATE HD
+http://axr.life:80/096154/686531/5049
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png",COMBATE SD
+http://axr.life:80/096154/686531/5411
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png",ESPN 2 HD
+http://axr.life:80/096154/686531/5062
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png",ESPN 2 SD
+http://axr.life:80/096154/686531/5426
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img922/1584/5vkptX.png",ESPN 3 HD
+http://axr.life:80/096154/686531/465906
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img922/9148/ZWlkp3.png",ESPN 4 HD
+http://axr.life:80/096154/686531/465909
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png",ESPN EXTRA HD
+http://axr.life:80/096154/686531/5065
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png",ESPN HD
+http://axr.life:80/096154/686531/5064
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png",ESPN SD
+http://axr.life:80/096154/686531/5425
+#EXTINF:-1 group-title="CANAIS | ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/FRXVr2.png",Estádio TNT Sports HD
+http://axr.life:80/096154/686531/1014598
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png",FOX SPORTS 2 HD
+http://axr.life:80/096154/686531/5071
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png",FOX SPORTS 2 SD
+http://axr.life:80/096154/686531/68533
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png",WOOHOO HD
+http://axr.life:80/096154/686531/5532
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png",WOOHOO SD
+http://axr.life:80/096154/686531/923539
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 2 HD
+http://axr.life:80/096154/686531/128489
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 2 SD
+http://axr.life:80/096154/686531/5473
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 3 HD
+http://axr.life:80/096154/686531/5101
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 3 SD
+http://axr.life:80/096154/686531/56159
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 4 HD
+http://axr.life:80/096154/686531/5102
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 4 SD
+http://axr.life:80/096154/686531/5475
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 5 HD
+http://axr.life:80/096154/686531/45345
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 5 SD
+http://axr.life:80/096154/686531/5476
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 6 HD
+http://axr.life:80/096154/686531/5104
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 6 SD
+http://axr.life:80/096154/686531/5477
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 7 HD
+http://axr.life:80/096154/686531/5105
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE 7 SD
+http://axr.life:80/096154/686531/5478
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE CLUBES HD
+http://axr.life:80/096154/686531/372984
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE CLUBES HD ²
+http://axr.life:80/096154/686531/1022523
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE CLUBES HD ¹
+http://axr.life:80/096154/686531/1011613
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE CLUBES SD
+http://axr.life:80/096154/686531/5481
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE CLUBES SD ²
+http://axr.life:80/096154/686531/1022524
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png",PREMIERE CLUBES SD ¹
+http://axr.life:80/096154/686531/1011611
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png",SPORTV 2 HD
+http://axr.life:80/096154/686531/5110
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png",SPORTV 2 SD
+http://axr.life:80/096154/686531/5495
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png",SPORTV 3 HD
+http://axr.life:80/096154/686531/5111
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png",SPORTV 3 SD
+http://axr.life:80/096154/686531/5496
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png",SPORTV HD
+http://axr.life:80/096154/686531/5112
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png",SPORTV SD
+http://axr.life:80/096154/686531/5494
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",ANIMAL PLANET HD
+http://axr.life:80/096154/686531/5042
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",ANIMAL PLANET SD
+http://axr.life:80/096154/686531/5396
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png",DISCOVERY CHANNEL HD
+http://axr.life:80/096154/686531/5051
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png",DISCOVERY CHANNEL SD
+http://axr.life:80/096154/686531/5414
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png",DISCOVERY H&H HD
+http://axr.life:80/096154/686531/5053
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png",DISCOVERY H&H SD
+http://axr.life:80/096154/686531/5415
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png",DISCOVERY SCIENCE HD
+http://axr.life:80/096154/686531/5055
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png",DISCOVERY THEATER HD
+http://axr.life:80/096154/686531/5056
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png",DISCOVERY TURBO HD
+http://axr.life:80/096154/686531/5057
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png",DISCOVERY WORLD HD
+http://axr.life:80/096154/686531/5058
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png",E! HD
+http://axr.life:80/096154/686531/45328
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png",E! SD
+http://axr.life:80/096154/686531/5421
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",FASHION TV HD
+http://axr.life:80/096154/686531/923100
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png",FOOD NETWORK HD
+http://axr.life:80/096154/686531/5066
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png",FOOD NETWORK SD
+http://axr.life:80/096154/686531/5430
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png",ARTE 1 HD
+http://axr.life:80/096154/686531/17923
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png",ARTE 1 SD
+http://axr.life:80/096154/686531/923561
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 HD
+http://axr.life:80/096154/686531/5083
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 HD
+http://axr.life:80/096154/686531/923017
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 SD
+http://axr.life:80/096154/686531/923458
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png",HISTORY 2 SD
+http://axr.life:80/096154/686531/5450
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY CHANNEL HD
+http://axr.life:80/096154/686531/5084
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY CHANNEL SD
+http://axr.life:80/096154/686531/5534
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY FHD
+http://axr.life:80/096154/686531/923807
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY HD
+http://axr.life:80/096154/686531/923018
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png",HISTORY SD
+http://axr.life:80/096154/686531/923541
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png",ID - INVESTIGATION DISCOVERY HD
+http://axr.life:80/096154/686531/5085
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png",ID - INVESTIGATION DISCOVERY SD
+http://axr.life:80/096154/686531/5451
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png",LIFETIME HD
+http://axr.life:80/096154/686531/5086
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png",LIFETIME SD
+http://axr.life:80/096154/686531/5453
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png",MTV SD
+http://axr.life:80/096154/686531/5459
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/Musicboxbrasil1.png",MUSIC BOX BRAZIL HD
+http://axr.life:80/096154/686531/5462
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="http://logocanais.ddns.net/Logo/Musicboxbrasil1.png",MUSIC BOX BRAZIL SD
+http://axr.life:80/096154/686531/45325
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo-2.png",NATGEO WILD HD
+http://axr.life:80/096154/686531/923029
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo-2.png",NATGEO WILD SD
+http://axr.life:80/096154/686531/923471
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png",NATIONAL GEOGRAPHIC HD
+http://axr.life:80/096154/686531/104678
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png",NATIONAL GEOGRAPHIC SD
+http://axr.life:80/096154/686531/104679
+#EXTINF:-1 group-title="TV Fechada Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png",STAR LIFE SD
+http://axr.life:80/096154/686531/923440
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png",CNN BRASIL HD
+http://axr.life:80/096154/686531/5158
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png",CNN BRASIL SD
+http://axr.life:80/096154/686531/5540
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png",BAND NEWS HD
+http://axr.life:80/096154/686531/5160
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png",BAND NEWS SD
+http://axr.life:80/096154/686531/5401
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/2bve95.png",RECORD NEWS HD
+http://axr.life:80/096154/686531/5484
+#EXTINF:-1 group-title="TV Fechada Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/2bve95.png",RECORD NEWS SD
+http://axr.life:80/096154/686531/17922
+
+Payperview
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/19BhPq.png",Champions League 01
+http://axr.life:80/096154/686531/1014589
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/19BhPq.png",Champions League 02
+http://axr.life:80/096154/686531/1014590
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/19BhPq.png",Champions League 03
+http://axr.life:80/096154/686531/1014591
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/19BhPq.png",Champions League 04
+http://axr.life:80/096154/686531/1014592
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/19BhPq.png",Champions League 05
+http://axr.life:80/096154/686531/1014593
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/19BhPq.png",Champions League 06
+http://axr.life:80/096154/686531/1014594
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 01 FHD
+http://axr.life:80/096154/686531/1014579
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 01 HD
+http://axr.life:80/096154/686531/1014578
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 01 SD
+http://axr.life:80/096154/686531/1014577
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 02 FHD
+http://axr.life:80/096154/686531/1014582
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 02 HD
+http://axr.life:80/096154/686531/1014581
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 02 SD
+http://axr.life:80/096154/686531/1014580
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 03 FHD
+http://axr.life:80/096154/686531/1014585
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 03 HD
+http://axr.life:80/096154/686531/1014584
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 03 SD
+http://axr.life:80/096154/686531/1014583
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 04 FHD
+http://axr.life:80/096154/686531/1014588
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 04 HD
+http://axr.life:80/096154/686531/1014587
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV - 04 SD
+http://axr.life:80/096154/686531/1014586
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png",TNT Sports 01
+http://axr.life:80/096154/686531/1014601
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png",TNT Sports 02
+http://axr.life:80/096154/686531/1014602
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png",TNT Sports 03
+http://axr.life:80/096154/686531/1014603
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil"  tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png",NBA League Pass 1 HD
+http://axr.life:80/096154/686531/766210
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil"  tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png",NBA League Pass 2 HD
+http://axr.life:80/096154/686531/766211
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil"  tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png",NBA League Pass 3 HD
+http://axr.life:80/096154/686531/766212
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil"  tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png",NBA League Pass 4 HD
+http://axr.life:80/096154/686531/766213
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil"  tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png",NBA League Pass 5 HD
+http://axr.life:80/096154/686531/766214
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil"  tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png",NBA TV
+http://axr.life:80/096154/686531/766209
+#EXTINF:-1 group-title="PAY-PER-VIEW - Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/r0ACpD.png",Red Bull TV (EUA)
+http://axr.life:80/096154/686531/1014599
+
+TV Aberta
+#EXTINF:-1 group-title="TV Aberta Brasil" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png",BAND HD
+http://axr.life:80/096154/686531/68519
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png",TV BRASIL HD
+http://axr.life:80/096154/686531/374285
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png",TV Cultura HD
+http://axr.life:80/096154/686531/374286
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png",TV CULTURA SD
+http://axr.life:80/096154/686531/923525
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://i.imgur.com/A70v3be.png",RECORD SP SD
+http://axr.life:80/096154/686531/923324
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://i.imgur.com/A70v3be.png",RECORD TV SD
+http://axr.life:80/096154/686531/923491
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png",REDE BRASIL HD
+http://axr.life:80/096154/686531/374283
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png",REDE BRASIL SD
+http://axr.life:80/096154/686531/923493
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png",REDE TV! HD
+http://axr.life:80/096154/686531/5108
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png",REDE TV! SD
+http://axr.life:80/096154/686531/5487
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png",SBT SD
+http://axr.life:80/096154/686531/923497
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png",SBT SP HD
+http://axr.life:80/096154/686531/923395
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png",SBT SP HD
+http://axr.life:80/096154/686531/68531
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png",SBT SP SD
+http://axr.life:80/096154/686531/475649
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="Brasil", Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="TV Aberta Brasil" , TV Jornal Nordeste
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w879884172.m3u8
+#EXTINF:-1 group-title="TV Aberta Brasil"  tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brasil", TV Câmara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 group-title="TV Aberta Brasil" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brasil", TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="TV Aberta Brasil" TV Gazeta
+http://66.90.84.98/live/4719wil/452540/90011.m3u8?token=VXJnMFl0ZUNnZW1DQ1lt
+#EXTINF:-1 group-title="TV Aberta Brasil" TV Nova Nordeste
+https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
+#EXTINF:-1 group-title="TV Aberta Brasil" TV Pernambuco
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm40q6sWLKal-JZMV1Mv9bNv3rCth-Wo0YcS_oF8KCvr1S)/dm/3/x83gdzr/s/live-1.m3u8
