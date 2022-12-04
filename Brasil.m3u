@@ -485,3 +485,975 @@ http://66.90.84.98/live/4719wil/452540/90011.m3u8?token=VXJnMFl0ZUNnZW1DQ1lt
 https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
 #EXTINF:-1 group-title="TV Aberta Brasil" TV Pernambuco
 https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm40q6sWLKal-JZMV1Mv9bNv3rCth-Wo0YcS_oF8KCvr1S)/dm/3/x83gdzr/s/live-1.m3u8
+
+
+
+
+#EXTINF: -1 group-title="ARGENTINA  2" tvg-id="QuatroTV.ar" tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", Quatro TV
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+#EXTINF: -1 group-title="ARGENTINA  2"  tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png" group-title="Argentina", Latino Kids TV * | UY
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 group-title="ARGENTINA  2"  tvg-id="249" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", 5TV | AR
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA  2"  group-title="ARGENTINA  2" tvg-logo="https://asiagrandiptv.us/logo//muchmusic.png",ARG: MUCH MUSIC
+http://axr.life:80/096154/686531/1061300
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://asiagrandiptv.us/logo//musictop.png",ARG: MUSIC TOP
+http://axr.life:80/096154/686531/1061301
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="http://xplanetiptv.com/Logotv/countries/argentina/quiero-musica-en-mi-idioma-ar.png",ARG: QUIERO MUSICA
+http://axr.life:80/096154/686531/1061302
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://asiagrandiptv.us/logo//CANAL9.png",ARG: CANAL 9
+http://axr.life:80/096154/686531/1061305
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://asiagrandiptv.us/logo//CANAL21.png",ARG: CANAL 21
+http://axr.life:80/096154/686531/1061306
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://asiagrandiptv.us/logo//CANAL26.png",ARG: CANAL 26
+http://axr.life:80/096154/686531/1061307
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://asiagrandiptv.us/logo//CANALDELACIUDAD.jpg",ARG: CANAL DE LA CIUDAD
+http://axr.life:80/096154/686531/1061308
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/metro-ar.png",ARG: METRO
+http://axr.life:80/096154/686531/1061349
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/tbs-ar.png",ARG: TBS VERY FUNNY
+http://axr.life:80/096154/686531/1061364
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/tcm-ar.png",ARG: TCM
+http://axr.life:80/096154/686531/1061365
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/telefe-ar.png",ARG: TELEFE
+http://axr.life:80/096154/686531/1061366
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/telemax-ar.png",ARG: TELEMAX
+http://axr.life:80/096154/686531/1061367
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/telemundo-international-ar.png",ARG: TELEMUNDO
+http://axr.life:80/096154/686531/1061368
+#EXTINF:-1 group-title="ARGENTINA  2" tvg-logo="https://asiagrandiptv.us/logo//telesur.png",ARG: TELESUR
+http://axr.life:80/096154/686531/1061369
+
+
+#EXTINF:-1 group-title="CHILE",CANAL 13 CHILE CL
+http://axr.life:80/00005733/MF159357C/997577
+#EXTINF:-1 group-title="CHILE",CHILE  | Canal 13 SD
+http://axr.life:80/00005733/MF159357C/997570
+#EXTINF:-1 group-title="CHILE",CHILE  | Chilevision FHD
+http://axr.life:80/00005733/MF159357C/997567
+#EXTINF:-1 group-title="CHILE",CHILE  | Emol TV
+http://axr.life:80/00005733/MF159357C/997572
+#EXTINF:-1 group-title="PERU",CHILE  | La Red HD
+http://axr.life:80/00005733/MF159357C/998255
+#EXTINF:-1 group-title="CHILE",CHILE  | Mega FHD
+http://axr.life:80/00005733/MF159357C/997574
+#EXTINF:-1 group-title="CHILE",CHILE  | Mega HD
+http://axr.life:80/00005733/MF159357C/997573
+#EXTINF:-1 group-title="CHILE",CHILE  | T13 Noticias
+http://axr.life:80/00005733/MF159357C/997571
+#EXTINF:-1 group-title="CHILE",CHILE  | Teletrak chile
+http://axr.life:80/00005733/MF159357C/997575
+#EXTINF:-1 group-title="CHILE",CHILE  | TVN Culto (GEO)
+http://axr.life:80/00005733/MF159357C/997568
+#EXTINF:-1 group-title="CHILE",CHILE  | TVN HD
+http://axr.life:80/00005733/MF159357C/997569
+#EXTINF:-1 group-title="CHILE",Chile | CANAL 13 C HD
+http://axr.life:80/00005733/MF159357C/997582
+#EXTINF:-1 group-title="CHILE",CHILE | CANAL 13 FHD
+http://axr.life:80/00005733/MF159357C/997580
+#EXTINF:-1 group-title="CHILE",CHILE | Chilevision HD
+http://axr.life:80/00005733/MF159357C/997566
+#EXTINF:-1 group-title="CHILE",CHILE | ETC TV CHILE
+http://axr.life:80/00005733/MF159357C/997586
+#EXTINF:-1 group-title="CHILE",CHILE | Mega HD OPC 2
+http://axr.life:80/00005733/MF159357C/997578
+#EXTINF:-1 group-title="CHILE",CHILE | Mega SD
+http://axr.life:80/00005733/MF159357C/997579
+#EXTINF:-1 group-title="CHILE",CHILE | REC TV
+http://axr.life:80/00005733/MF159357C/997584
+#EXTINF:-1 group-title="CHILE",CHILE | TV+
+http://axr.life:80/00005733/MF159357C/997585
+#EXTINF:-1 group-title="CHILE",CHILE | TVN SD
+http://axr.life:80/00005733/MF159357C/997583
+#EXTINF:-1 group-title="CHILE",Chile | TVU Concepcion
+http://axr.life:80/00005733/MF159357C/997581
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/13c.png",CL: 13 C
+http://axr.life:80/096154/686531/1044669
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/caracolinternacional.png",CL: CARACOL INTERNACIONAL
+http://axr.life:80/096154/686531/1044670
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/cdfbasico.png",CL: CDF BASICO
+http://axr.life:80/096154/686531/1044671
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/cdfpremium.png",CL: CDF PREMIUM
+http://axr.life:80/096154/686531/1044672
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/cdo.png",CL: CDO
+http://axr.life:80/096154/686531/1044673
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/chilevision.png",CL: CHILEVISION
+http://axr.life:80/096154/686531/1044674
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/citytv.png",CL: CITY TV
+http://axr.life:80/096154/686531/1044675
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/cnn.png",CL: CNN
+http://axr.life:80/096154/686531/1044676
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/etctv.png",CL: ETC TV
+http://axr.life:80/096154/686531/1044677
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/lared.png",CL: LA RED
+http://axr.life:80/096154/686531/1044678
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/mega.png",CL: MEGA
+http://axr.life:80/096154/686531/1044679
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/teletrak.png",CL: TELETRAK
+http://axr.life:80/096154/686531/1044680
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/chilevision.png",CL: TV CHILE
+http://axr.life:80/096154/686531/1044683
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/tvplus.png",CL: TV+
+http://axr.life:80/096154/686531/1044684
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://asiagrandiptv.us/logo/tvn.png",CL: TVN
+http://axr.life:80/096154/686531/1044685
+
+
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/canaluno.png",EC: CANAL UNO
+http://axr.life:80/096154/686531/1044607
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/canelatv.png",EC: CANELA TV
+http://axr.life:80/096154/686531/1044608
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/ecuadortv.png",EC: ECUADOR TV
+http://axr.life:80/096154/686531/1044609
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/ecuavisa.png",EC: ECUAVISA
+http://axr.life:80/096154/686531/1044610
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/gamavision.png",EC: GAMAVISION
+http://axr.life:80/096154/686531/1044611
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/oromartv.png",EC: OROMAR TV
+http://axr.life:80/096154/686531/1044612
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/tctelevision.png",EC: TC TELEVISION
+http://axr.life:80/096154/686531/1044613
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/teleamazonas.png",EC: TELE AMAZONAS
+http://axr.life:80/096154/686531/1044614
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/gamatv.png",EC: GAMA TV
+http://axr.life:80/096154/686531/1044615
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/tvc.png",EC: TVC
+http://axr.life:80/096154/686531/1044616
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/goltv.png",EC: GOL TV
+http://axr.life:80/096154/686531/1044617
+#EXTINF:-1 group-title="EQUADOR" tvg-logo="https://asiagrandiptv.us/logo/rts.png",EC: RTS
+http://axr.life:80/096154/686531/1044618
+
+#EXTINF:-1 group-title="CUBA" tvg-logo="https://asiagrandiptv.us/logo/AMERICATEVE.png",CU: AMERICA TEVE
+http://axr.life:80/096154/686531/1044619
+#EXTINF:-1 group-title="CUBA" tvg-logo="https://asiagrandiptv.us/logo/cubavision.png",CU: CUBAVISION
+http://axr.life:80/096154/686531/1044620
+#EXTINF:-1 group-title="CUBA" tvg-logo="https://asiagrandiptv.us/logo/CUBAMAX.png",CU: CUBAMAX
+http://axr.life:80/096154/686531/1044621
+#EXTINF:-1 group-title="CUBA" tvg-logo="https://asiagrandiptv.us/logo/cubavisioninternacional.png",CU: CUBAVISION INTERNACIONAL
+http://axr.life:80/096154/686531/1044622
+#EXTINF:-1 group-title="CUBA" tvg-logo="https://asiagrandiptv.us/logo/telerebeldecu.png",CU: TELE REBELDE
+http://axr.life:80/096154/686531/1044623
+#EXTINF:-1 group-title="CUBA" tvg-logo="https://asiagrandiptv.us/logo/tvmarti.png",CU: TV MARTI
+http://axr.life:80/096154/686531/1044624
+
+
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/cablenoticias.png",CO: CABLE NOTICIAS
+http://axr.life:80/096154/686531/1044631
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/canalcapital.png",CO: CANAL CAPITAL
+http://axr.life:80/096154/686531/1044632
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/canaltrece.png",CO: CANAL TRECE
+http://axr.life:80/096154/686531/1044633
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/canaltro6.png",CO: CANAL TRO
+http://axr.life:80/096154/686531/1044634
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/canaluno.png",CO: CANAL UNO
+http://axr.life:80/096154/686531/1044635
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/cantinazo.png",CO: CANTINAZO
+http://axr.life:80/096154/686531/1044636
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/caracol.png",CO: CARACOL
+http://axr.life:80/096154/686531/1044637
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/caracolinternacional.png",CO: CARACOL INTERNACIONAL
+http://axr.life:80/096154/686531/1044638
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/caracolinternacional.png",CO: CARACOL NACIONAL
+http://axr.life:80/096154/686531/1044639
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/citytv.png",CO: CITY TV
+http://axr.life:80/096154/686531/1044640
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/cosmovision.png",CO: COSMOVISION
+http://axr.life:80/096154/686531/1044641
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/LAKALLE.jpg",CO: LA KALLE
+http://axr.life:80/096154/686531/1044642
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/lasestrellas.png",CO: LAS ESTRELLAS
+http://axr.life:80/096154/686531/1044643
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/ntn24.png",CO: NTN 24
+http://axr.life:80/096154/686531/1044644
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/rcn.png",CO: RCN
+http://axr.life:80/096154/686531/1044645
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/rcn2.png",CO: RCN 2
+http://axr.life:80/096154/686531/1044646
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/rcnnovelas.png",CO: RCN NOVELAS
+http://axr.life:80/096154/686531/1044647
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/senal.png",CO: SENAL COLOMBIA
+http://axr.life:80/096154/686531/1044648
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/studiouniversal.png",CO: STUDIO UNIVERSAL
+http://axr.life:80/096154/686531/1044649
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/tachopistacho.png",CO: TACHO PISTACHO
+http://axr.life:80/096154/686531/1044650
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/teleantioquia.png",CO: TELE ANTIOQUIA
+http://axr.life:80/096154/686531/1044651
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/telecaribe.png",CO: TELE CARIBE
+http://axr.life:80/096154/686531/1044652
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/telemedellin.png",CO: TELE MEDELLIN
+http://axr.life:80/096154/686531/1044653
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/telepacifico.png",CO: TELE PACIFICO
+http://axr.life:80/096154/686531/1044654
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/TELEAMIGA.png",CO: TELEAMIGA
+http://axr.life:80/096154/686531/1044655
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/telecafe.png",CO: TELECAFE
+http://axr.life:80/096154/686531/1044656
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/telecaribedeportes.png",CO: TELE CARIBE DEPORTES
+http://axr.life:80/096154/686531/1044657
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/televid.png",CO: TELEVID
+http://axr.life:80/096154/686531/1044658
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/tooncast.png",CO: TOONCAST
+http://axr.life:80/096154/686531/1044659
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://asiagrandiptv.us/logo/trece.png",CO: TRECE
+http://axr.life:80/096154/686531/1044660
+#EXTINF:-1 group-title="COLOMBIA",CO: TELE CARIBE+
+http://axr.life:80/096154/686531/1044661
+
+
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/1000XHORATV.jpg",URU: 1000 X HORA TV
+http://axr.life:80/096154/686531/1044696
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/A+V.png",URU: A+V
+http://axr.life:80/096154/686531/1044697
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/canal2lascano.png",URU: CANAL 2 LASCANO
+http://axr.life:80/096154/686531/1044698
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/canal4.png",URU: CANAL 4
+http://axr.life:80/096154/686531/1044699
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/CANAL4SALTO.jpg",URU: CANAL 4 SALTO
+http://axr.life:80/096154/686531/1044700
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/canal6durazno.png",URU: CANAL 6 DURAZNO
+http://axr.life:80/096154/686531/1044701
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/canal10.png",URU: CANAL 10
+http://axr.life:80/096154/686531/1044702
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/canal12.png",URU: CANAL 12
+http://axr.life:80/096154/686531/1044703
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/CARDINALTV.jpg",URU: CARDINAL TV
+http://axr.life:80/096154/686531/1044704
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/tvciudad.png",URU: TV CIUDAD
+http://axr.life:80/096154/686531/1044705
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://asiagrandiptv.us/logo/vtv.png",URU: VTV
+http://axr.life:80/096154/686531/1044706
+
+
+#EXTINF:-1 group-title="USA" tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States", WABC-DT1 (ABC 7) (720p)
+http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="United States", ABC News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="BBCAmericaEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="United States", BBC America (720p)
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="United States", CBS News (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="ClassCNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Class_CNBC.svg/512px-Class_CNBC.svg.png" group-title="United States", Class CNBC (576p)
+https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States", WABC-DT1 (ABC 7) (720p)
+http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="PeopleTV.us" tvg-logo="https://i.imgur.com/7SarjaU.png" group-title="United States", People TV (1080p)
+https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="KTLADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="United States", The CW Los Angeles CA (KTLA-DT1) (720p) 
+http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="TheRetroChannel.us" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="United States", The Retro Channel (1080p) [Not 24/7]
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="USAToday.us" tvg-logo="https://i.imgur.com/K9OdCIV.png" group-title="United States", USA Today (1080p)
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States", WCBS-DT1 (CBS 2) (1080p)
+http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
+#EXTINF:-1 group-title="USA" group-title="United States", Univision
+http://190.61.41.182:8000/play/a37m/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="WXTVDT1.us" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxtv_univision41_new_york.png" group-title="United States", WXTV-DT1 (Univision 41)
+http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
+#EXTINF:-1 group-title="USA" group-title="United States", WGBO-DT1 Unisvion Chicago [Geo-blocked]
+https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=
+#EXTINF:-1 group-title="USA" tvg-id="WHYYDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="United States", WHYY-DT2 (Y2) (432p)
+http://v-pi.theus6tv.duckdns.org/hls/12.2/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="United States", WNJU-DT1 (Telemundo 47)
+#EXTINF:-1 group-title="USA" tvg-id="WKAQDT1.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="United States", WKAQ-DT1 (Telemundo Puerto Rico)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="WKOBLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Azteca_America_2011_logo.png" group-title="United States", WKOB-LD1 (Azteca America 42) (720p) [Not 24/7]
+http://v-ny.theus6tv.duckdns.org/hls/42.1/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="WNBCDT1.us" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/us-local/nbc-4-wnbc-us.png" group-title="United States", WNBC-DT1 (NBC 4) (1080p) [Not 24/7]
+http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="WNETDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="United States", WNET-DT1 (PBS THIRTEEN) (1080p)
+http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="United States", WNYW-DT1 (FOX 5) (720p)
+#EXTINF:-1 group-title="USA" tvg-id="WNYWDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/512px-Movies%21_logo.svg.png" group-title="United States", WNYW-DT2 (Movies!)
+http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/5e0709a619ceac29ed1668fd4699d042.jpg",ESPAÑA | LA 1 HD
+http://axr.life:80/096154/686531/1044809
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320",ESPAÑA  | La 2 HD
+http://axr.life:80/096154/686531/1044810
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/ae6c445462d77cafb39e2d5e2df6aa72.png",ESPAÑA | Antena 3 HD
+http://axr.life:80/096154/686531/1044811
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/bb52f670c594fe2795137433ec1b20fe.png",ESPAÑA | Cuatro HD
+http://axr.life:80/096154/686531/1044812
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",ESPAÑA | Telecinco HD
+http://axr.life:80/096154/686531/1044813
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/6ffdd1d66867dc639703d8a1d2f12b56.png",ESPAÑA | La Sexta HD
+http://axr.life:80/096154/686531/1044814
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/57d4745715a67138a91ea0dd326a8e26.png",ESPAÑA | Aragon TV HD
+http://axr.life:80/096154/686531/1044815
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/98340827074bbf3d68dbe3fff03bc069.png",ESPAÑA | Andalucia TV HD
+http://axr.life:80/096154/686531/1044816
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/eb0176ef28fde1eebe58319f797040e3.png",ESPAÑA  | BEMAD HD
+http://axr.life:80/096154/686531/1044817
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/d4accc73502f15c4b3b964927bfd2d27.png",ESPAÑA | Blaze HD
+http://axr.life:80/096154/686531/1044818
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/f34f404c5f422984b19883a6194be099.png",ESPAÑA | Baby TV HD
+http://axr.life:80/096154/686531/1044819
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/1afa2bc19d0fecef470ccdee99d8e73a.png",ESPAÑA | Boing HD
+http://axr.life:80/096154/686531/1044820
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://pbs.twimg.com/profile_images/1140603134693298176/x40aCIk1_400x400.png",ESPAÑA | CANAL SUR
+http://axr.life:80/096154/686531/1044821
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/4aaef2d4297f8a25f566c6bd6ed577ac.png",ESPAÑA | CANAL PANDA
+http://axr.life:80/096154/686531/1044822
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/e8c18d90c2ee0bddfac13b2a84601e80.png",ESPAÑA | Nova HD
+http://axr.life:80/096154/686531/1044838
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/e3da81d0ca1cbae9a70cfce0b08bdd51.png",ESPAÑA | TRECE TV HD
+http://axr.life:80/096154/686531/1044839
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/-0_M%2B_copie.png/revision/latest?cb=20160225071110",ESPAÑA | Canal 0 HD
+http://axr.life:80/096154/686531/1044840
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320",ESPAÑA | Mega HD
+http://axr.life:80/096154/686531/1044841
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://www.euskaltel.com/webektest/Galeria/Imagenes/Foro/odisea/foro-odisea.png",ESPAÑA | Odisea HD
+http://axr.life:80/096154/686531/1044843
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/c739de524fb154d0c4a33dbd89c2aa56.png",ESPAÑA | Canal Extremadura
+http://axr.life:80/096154/686531/1044844
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/79ab8b829160430036e6279925d16d38.jpg",ESPAÑA | Canal Malaga
+http://axr.life:80/096154/686531/1044845
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/0afd36f083a72194787b52380a216d6f.png",ESPAÑA | TV3 Catalunya
+http://axr.life:80/096154/686531/1044846
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/07fc37499945ca16bf3d27c3df5b8dae.jpg",ESPAÑA | Distrito TV
+http://axr.life:80/096154/686531/1044847
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/56e308bdad025b56b1d351177cf8512c.png",ESPAÑA | Boing HD
+http://axr.life:80/096154/686531/1044848
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/56e308bdad025b56b1d351177cf8512c.png",ESPAÑA | Boing
+http://axr.life:80/096154/686531/1044849
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/2d76814551c61d2c93a8afb21544b4a1.png",ESPAÑA | Telemadrid
+http://axr.life:80/096154/686531/1044850
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/c4ee7ca67a2aa4364948f3a9233bbaa9.png",ESPAÑA |  Aragón TV
+http://axr.life:80/096154/686531/1044851
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/575ba9293a2e530491717e16627eb796.png",ESPAÑA | Disney Channel FHD
+http://axr.life:80/096154/686531/1044852
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/575ba9293a2e530491717e16627eb796.png",ESPAÑA | Disney Channel HD
+http://axr.life:80/096154/686531/1044853
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/c85f0211772159cfb880ef46ca6800cb.jpg",ESPAÑA | Disney Junior HD
+http://axr.life:80/096154/686531/1044854
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/51db098ccad89079fd6f62fadb01c0b7.png",ESPAÑA  | Canal CGTN Español
+http://axr.life:80/096154/686531/1044855
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/f30b2c3159082bbc37d7e2f580ebe246.jpg",ESPAÑA | Crimen & Investigacion
+http://axr.life:80/096154/686531/1044856
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/a9c39f241ef492c13195485797b581fa.png",ESPAÑA | Cazavision FHD
+http://axr.life:80/096154/686531/1044857
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",ESPAÑA | Telecinco HD OPC 2
+http://axr.life:80/096154/686531/1044858
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/ae6c445462d77cafb39e2d5e2df6aa72.png",ESPAÑA | Antena 3 HD OPC 2
+http://axr.life:80/096154/686531/1044859
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/bb52f670c594fe2795137433ec1b20fe.png",ESPAÑA | Cuatro HD OPC 2
+http://axr.life:80/096154/686531/1044860
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/6ffdd1d66867dc639703d8a1d2f12b56.png",ESPAÑA | La Sexta HD OPC 2
+http://axr.life:80/096154/686531/1044861
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/5e0709a619ceac29ed1668fd4699d042.jpg",ESPAÑA | LA 1 HD
+http://axr.life:80/096154/686531/1044862
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/5e0709a619ceac29ed1668fd4699d042.jpg",ESPAÑA | LA 1 FHD
+http://axr.life:80/096154/686531/1044863
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/5e0709a619ceac29ed1668fd4699d042.jpg",ESPAÑA | LA 1 SD
+http://axr.life:80/096154/686531/1044864
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320",ESPAÑA | LA 2 HD
+http://axr.life:80/096154/686531/1044865
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320",ESPAÑA | LA 2 FHD
+http://axr.life:80/096154/686531/1044866
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320",ESPAÑA | LA 2 SD
+http://axr.life:80/096154/686531/1044867
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/ae6c445462d77cafb39e2d5e2df6aa72.png",ESPAÑA | ANTENA 3 HD
+http://axr.life:80/096154/686531/1044868
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/ae6c445462d77cafb39e2d5e2df6aa72.png",ESPAÑA | ANTENA 3 FHD
+http://axr.life:80/096154/686531/1044869
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/ae6c445462d77cafb39e2d5e2df6aa72.png",ESPAÑA | ANTENA 3 SD
+http://axr.life:80/096154/686531/1044870
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/bb52f670c594fe2795137433ec1b20fe.png",ESPAÑA | CUATRO HD
+http://axr.life:80/096154/686531/1044871
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/bb52f670c594fe2795137433ec1b20fe.png",ESPAÑA | CUATRO FHD
+http://axr.life:80/096154/686531/1044872
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/bb52f670c594fe2795137433ec1b20fe.png",ESPAÑA | CUATRO SD
+http://axr.life:80/096154/686531/1044873
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",ESPAÑA | TELECINCO HD
+http://axr.life:80/096154/686531/1044874
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",ESPAÑA | TELECINCO FHD
+http://axr.life:80/096154/686531/1044875
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",ESPAÑA | TELECINCO SD
+http://axr.life:80/096154/686531/1044876
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/6ffdd1d66867dc639703d8a1d2f12b56.png",ESPAÑA | LA SEXTA HD
+http://axr.life:80/096154/686531/1044877
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/6ffdd1d66867dc639703d8a1d2f12b56.png",ESPAÑA | LA SEXTA FHD
+http://axr.life:80/096154/686531/1044878
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/6ffdd1d66867dc639703d8a1d2f12b56.png",ESPAÑA | LA SEXTA SD
+http://axr.life:80/096154/686531/1044879
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821",ESPAÑA | FDF HD
+http://axr.life:80/096154/686531/1044880
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821",ESPAÑA | FDF FHD
+http://axr.life:80/096154/686531/1044881
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821",ESPAÑA | FDF SD
+http://axr.life:80/096154/686531/1044882
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/e3da81d0ca1cbae9a70cfce0b08bdd51.png",ESPAÑA | TRECE TV
+http://axr.life:80/096154/686531/1044883
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/bd11fd9123442e4cb405d3af16562934.png",ESPAÑA | ENERGY HD
+http://axr.life:80/096154/686531/1044884
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/bd11fd9123442e4cb405d3af16562934.png",ESPAÑA | ENERGY FHD
+http://axr.life:80/096154/686531/1044885
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/bd11fd9123442e4cb405d3af16562934.png",ESPAÑA | ENERGY SD
+http://axr.life:80/096154/686531/1044886
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/73f6a6e66de394622d82573625eca71e.jpg",ESPAÑA | PARAMOUNT NETWORK HD
+http://axr.life:80/096154/686531/1044887
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/73f6a6e66de394622d82573625eca71e.jpg",ESPAÑA | PARAMOUNT NETWORK HD
+http://axr.life:80/096154/686531/1044888
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/e8c18d90c2ee0bddfac13b2a84601e80.png",ESPAÑA | NOVA HD
+http://axr.life:80/096154/686531/1044889
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/e8c18d90c2ee0bddfac13b2a84601e80.png",ESPAÑA | NOVA FHD
+http://axr.life:80/096154/686531/1044890
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/e8c18d90c2ee0bddfac13b2a84601e80.png",ESPAÑA | NOVA SD
+http://axr.life:80/096154/686531/1044891
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/7a921c79ff77f58d42d0f7dd95191761.png",ESPAÑA | DIVINITY HD
+http://axr.life:80/096154/686531/1044892
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/7a921c79ff77f58d42d0f7dd95191761.png",ESPAÑA | DIVINITY FHD
+http://axr.life:80/096154/686531/1044893
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/7a921c79ff77f58d42d0f7dd95191761.png",ESPAÑA | DIVINITY SD
+http://axr.life:80/096154/686531/1044894
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320",ESPAÑA | MEGA HD
+http://axr.life:80/096154/686531/1044895
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320",ESPAÑA | MEGA FHD
+http://axr.life:80/096154/686531/1044896
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320",ESPAÑA | MEGA SD
+http://axr.life:80/096154/686531/1044897
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/1602c5589528aada8f3c199fa19c0868.png",ESPAÑA | NEOX HD
+http://axr.life:80/096154/686531/1044898
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/1602c5589528aada8f3c199fa19c0868.png",ESPAÑA | NEOX FHD
+http://axr.life:80/096154/686531/1044899
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/1602c5589528aada8f3c199fa19c0868.png",ESPAÑA | NEOX SD
+http://axr.life:80/096154/686531/1044900
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/9557450ef4f2f85b14b45a264b892352.png",ESPAÑA | BE MAD HD
+http://axr.life:80/096154/686531/1044901
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/9557450ef4f2f85b14b45a264b892352.png",ESPAÑA | BE MAD FHD
+http://axr.life:80/096154/686531/1044902
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/9557450ef4f2f85b14b45a264b892352.png",ESPAÑA | BE MAD SD
+http://axr.life:80/096154/686531/1044903
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/1afa2bc19d0fecef470ccdee99d8e73a.png",ESPAÑA | BOING HD
+http://axr.life:80/096154/686531/1044904
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/1afa2bc19d0fecef470ccdee99d8e73a.png",ESPAÑA | BOING FHD
+http://axr.life:80/096154/686531/1044905
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/1afa2bc19d0fecef470ccdee99d8e73a.png",ESPAÑA | BOING SD
+http://axr.life:80/096154/686531/1044906
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/dcaae032b6feae2ce92eedb74342f688.png",ESPAÑA | TVG
+http://axr.life:80/096154/686531/1044907
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/8f053d1df8e7defecab86ebbb51b0c93.png",ESPAÑA |  24 HORAS
+http://axr.life:80/096154/686531/1044908
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/411a5ac5ae9319c3039bd9f71cd5b879.png",ESPAÑA | TEN
+http://axr.life:80/096154/686531/1044909
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/dd422f78ed693f3592c68acbf1ba5c63.png",ESPAÑA | DMAX
+http://axr.life:80/096154/686531/1044910
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/37b08427c5801207646ea4c9d3439b36.jpg",ESPAÑA | ODISEA FHD
+http://axr.life:80/096154/686531/1044911
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/9ceb4c04f519a31c61b1118e3696b856.png",ESPAÑA | ETB 1
+http://axr.life:80/096154/686531/1044912
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/108c5a4900ef75400fd15dafec8b2765.png",ESPAÑA | ETB 2
+http://axr.life:80/096154/686531/1044913
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="http://visi4k.site:8080/images/84b9f651f67e5ed2ecf69511c7f36d59.jpg",ESPAÑA | ANTENA 3 INTERNACIONAL FHD
+http://axr.life:80/096154/686531/1044914
+
+
+#EXTINF:-1 group-title="FRANCA",FR: TF1 Series films FHD
+http://axr.life:80/096154/686531/1045827
+#EXTINF:-1 group-title="FRANCA",FR: TFX FHD
+http://axr.life:80/096154/686531/1045828
+#EXTINF:-1 group-title="FRANCA",FR: TV5 MONDE FRANCE FHD
+http://axr.life:80/096154/686531/1045829
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 2 FHD
+http://axr.life:80/096154/686531/1045842
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 3 FHD
+http://axr.life:80/096154/686531/1045843
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 4 FHD
+http://axr.life:80/096154/686531/1045844
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 5 FHD
+http://axr.life:80/096154/686531/1045845
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE 24 HD
+http://axr.life:80/096154/686531/1045846
+#EXTINF:-1 group-title="FRANCA",FR: FRANCE Ô FHD
+http://axr.life:80/096154/686531/1045847
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Cinema FHD
+http://axr.life:80/096154/686531/1045848
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ COMEDIE
+http://axr.life:80/096154/686531/1045849
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Decale FHD
+http://axr.life:80/096154/686531/1045850
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Family FHD
+http://axr.life:80/096154/686531/1045851
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ FHD
+http://axr.life:80/096154/686531/1045852
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ J HD
+http://axr.life:80/096154/686531/1045853
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Series FHD
+http://axr.life:80/096154/686531/1045854
+#EXTINF:-1 group-title="FRANCA",FR: CANAL+ Sport FHD
+http://axr.life:80/096154/686531/1045855
+#EXTINF:-1 group-title="FRANCA",FR: CARTOON NETWORK FHD
+http://axr.life:80/096154/686531/1045856
+#EXTINF:-1 group-title="FRANCA",FR: CHASSE ET PECHE HD
+http://axr.life:80/096154/686531/1045857
+#EXTINF:-1 group-title="FRANCA",FR: Cherie 25 FHD
+http://axr.life:80/096154/686531/1045858
+#EXTINF:-1 group-title="FRANCA",FR: Club bing TV
+http://axr.life:80/096154/686531/1045865
+#EXTINF:-1 group-title="FRANCA",FR: COMEDIE
+http://axr.life:80/096154/686531/1045866
+#EXTINF:-1 group-title="FRANCA",FR: COMEDIE+ FHD
+http://axr.life:80/096154/686531/1045867
+#EXTINF:-1 group-title="FRANCA",FR: Crime DISTRICT FHD
+http://axr.life:80/096154/686531/1045868
+#EXTINF:-1 group-title="FRANCA",FR: BET HD
+http://axr.life:80/096154/686531/1045869
+#EXTINF:-1 group-title="FRANCA",FR: BFM Business HD
+http://axr.life:80/096154/686531/1045870
+#EXTINF:-1 group-title="FRANCA",FR: BFM HD
+http://axr.life:80/096154/686531/1045871
+#EXTINF:-1 group-title="FRANCA",FR: AB1 FHD
+http://axr.life:80/096154/686531/1045872
+#EXTINF:-1 group-title="FRANCA",FR: AB3 HD
+http://axr.life:80/096154/686531/1045873
+#EXTINF:-1 group-title="FRANCA",FR: ACTION HD
+http://axr.life:80/096154/686531/1045874
+#EXTINF:-1 group-title="FRANCA",FR: 13 EME RUE FHD
+http://axr.life:80/096154/686531/1045875
+#EXTINF:-1 group-title="FRANCA",FR: 6ter FHD
+http://axr.life:80/096154/686531/1045876
+
+
+
+
+
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/C9N.jpg",PY: C9N
+http://axr.life:80/096154/686531/1061410
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/FARRAPLAY.png",PY: FARRA PLAY
+http://axr.life:80/096154/686531/1061411
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/imagentv.png",PY: GEN TV
+http://axr.life:80/096154/686531/1061412
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/latele.png",PY: LA TELE
+http://axr.life:80/096154/686531/1061413
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/NOTICIAS.jpg",PY: NOTICIAS
+http://axr.life:80/096154/686531/1061414
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/paraguaytv.png",PY: PARAGUAY TV
+http://axr.life:80/096154/686531/1061415
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/RADIOVENUS.png",PY: RADIO VENUS
+http://axr.life:80/096154/686531/1061416
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/RPC.png",PY: RPC
+http://axr.life:80/096154/686531/1061417
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/snt.png",PY: SNT
+http://axr.life:80/096154/686531/1061418
+#EXTINF:-1 group-title="PARAGUAY 2" tvg-logo="https://asiagrandiptv.us/logo/unicanal.png",PY: UNICANAL
+http://axr.life:80/096154/686531/1061419
+
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/america.png",PE: AMERICA
+http://axr.life:80/096154/686531/1067707
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/AMERICAPERU.png",PE: AMERICA PERU
+http://axr.life:80/096154/686531/1067708
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/antarestv.png",PE: ANTARES TV
+http://axr.life:80/096154/686531/1067709
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/atv.png",PE: ATV
+http://axr.life:80/096154/686531/1067710
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/atv.png",PE: ATV+
+http://axr.life:80/096154/686531/1067711
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/bhtv.png",PE: BHTV
+http://axr.life:80/096154/686531/1067712
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/canaln.png",PE: CANAL N
+http://axr.life:80/096154/686531/1067713
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/capitaltv.png",PE: CAPITAL TV
+http://axr.life:80/096154/686531/1067714
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/cultura24.png",PE: CULTURA 24
+http://axr.life:80/096154/686531/1067715
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/ENLACA.jpg",PE: ENLACA
+http://axr.life:80/096154/686531/1067716
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/frecuencialatina.png",PE: FRECUENCIA LATINA
+http://axr.life:80/096154/686531/1067717
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/GOLPERU.jpg",PE: GOL PERU
+http://axr.life:80/096154/686531/1067718
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/latina.png",PE: LATINA
+http://axr.life:80/096154/686531/1067719
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/movistardeportes.png",PE: MOVISTAR DEPORTES
+http://axr.life:80/096154/686531/1067720
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/MOVISTARPLUSTV.png",PE: MOVISTAR PLUS TV
+http://axr.life:80/096154/686531/1067721
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/ovacion.png",PE: OVACION TV
+http://axr.life:80/096154/686531/1067722
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/panamericana.png",PE: PANAMERICANA
+http://axr.life:80/096154/686531/1067723
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/perumagico.png",PE: PERU MAGICO
+http://axr.life:80/096154/686531/1067724
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/SURPERU.jpg",PE: SUR PERU
+http://axr.life:80/096154/686531/1067725
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/c7noticias.png",PE: TV NOTICIAS 7.3
+http://axr.life:80/096154/686531/1067726
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/TVPERU.png",PE: TV PERU
+http://axr.life:80/096154/686531/1067727
+#EXTINF:-1 group-title="PERU" tvg-logo="https://asiagrandiptv.us/logo/willax.png",PE: WILLAX
+http://axr.life:80/096154/686531/1067728
+
+
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | 45 TV
+http://axr.life:80/00005733/MF159357C/998022
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Azteca Honduras
+http://axr.life:80/00005733/MF159357C/998018
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Campus tv
+http://axr.life:80/00005733/MF159357C/998044
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | CANAL 10 HD
+http://axr.life:80/00005733/MF159357C/998025
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Canal 11 HD
+http://axr.life:80/00005733/MF159357C/998032
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Canal 5
+http://axr.life:80/00005733/MF159357C/998033
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | CANAL 5 HD
+http://axr.life:80/00005733/MF159357C/998023
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | CANAL 6 HD
+http://axr.life:80/00005733/MF159357C/998024
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | HCH
+http://axr.life:80/00005733/MF159357C/998034
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | HCH OPC 2
+http://axr.life:80/00005733/MF159357C/998043
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Lenca TV
+http://axr.life:80/00005733/MF159357C/998045
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | MEGA TV HD
+http://axr.life:80/00005733/MF159357C/998026
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | SI-TV
+http://axr.life:80/00005733/MF159357C/998035
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | SITV
+http://axr.life:80/00005733/MF159357C/998029
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Suyapa
+http://axr.life:80/00005733/MF159357C/998036
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TDTV
+http://axr.life:80/00005733/MF159357C/998031
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TeleCadena  SD
+http://axr.life:80/00005733/MF159357C/998037
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Telecadena HD
+http://axr.life:80/00005733/MF159357C/998021
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Teleceiba
+http://axr.life:80/00005733/MF159357C/998038
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Teleceiba SD
+http://axr.life:80/00005733/MF159357C/998020
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TELEPROGRESO
+http://axr.life:80/00005733/MF159357C/998027
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TeleSistema
+http://axr.life:80/00005733/MF159357C/998039
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | Telesistema SD
+http://axr.life:80/00005733/MF159357C/998019
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TEN Canal 10
+http://axr.life:80/00005733/MF159357C/998042
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TSI
+http://axr.life:80/00005733/MF159357C/998040
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | TSI HD
+http://axr.life:80/00005733/MF159357C/998028
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | UNE TV
+http://axr.life:80/00005733/MF159357C/998030
+#EXTINF:-1 group-title="INFANTILES",HONDURAS | VTV Honduras
+http://axr.life:80/00005733/MF159357C/998041
+
+
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/a3series.png",MEX: A3 SERIES
+http://axr.life:80/096154/686531/1044439
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/adn40-mx.png",MEX: ADN 40
+http://axr.life:80/096154/686531/1044440
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/antena3.png",MEX: ANTENA 3
+http://axr.life:80/096154/686531/1044443
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/axn.png",MEX: AXN
+http://axr.life:80/096154/686531/1044444
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/azteca-mx.png",MEX: AZ CINEMA
+http://axr.life:80/096154/686531/1044445
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/azclickb1.png",MEX: AZ CLICK B1
+http://axr.life:80/096154/686531/1044446
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/azteca-mx.png",MEX: AZ CORAZON
+http://axr.life:80/096154/686531/1044447
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/azteca-mx.png",MEX: AZ MUNDO
+http://axr.life:80/096154/686531/1044448
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/azteca1.png",MEX: AZTECA 1
+http://axr.life:80/096154/686531/1044449
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/azteca-7-mx.png",MEX: AZTECA 7
+http://axr.life:80/096154/686531/1044450
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/aztecacinema.png",MEX: AZTECA CINEMA
+http://axr.life:80/096154/686531/1044451
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/azteca-mx.png",MEX: AZTECA CLICK
+http://axr.life:80/096154/686531/1044452
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/azteca-mx.png",MEX: AZTECA DEPORTES
+http://axr.life:80/096154/686531/1044453
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/azteca-uno-mx.png",MEX: AZTECA MUNDO
+http://axr.life:80/096154/686531/1044454
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/azteca-uno-mx.png",MEX: AZTECA UNO
+http://axr.life:80/096154/686531/1044455
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/bandamax-mx.png",MEX: BANDAMAX
+http://axr.life:80/096154/686531/1044458
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/cnnenespanol.png",MEX: CNN EN ESPAÑOL
+http://axr.life:80/096154/686531/1044473
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/cnnint.png",MEX: CNN INT
+http://axr.life:80/096154/686531/1044474
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/isat.png",MEX: I SAT
+http://axr.life:80/096154/686531/1044516
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/itv.png",MEX: ITV
+http://axr.life:80/096154/686531/1044517
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/las-estrellas-mx.png",MEX: LAS ESTRELLAS
+http://axr.life:80/096154/686531/1044518
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/multimedios-mx.png",MEX: MULTIMEDIOS
+http://axr.life:80/096154/686531/1044526
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/multimedios-mx.png",MEX: MULTIMEDIOS PLUS
+http://axr.life:80/096154/686531/1044527
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/ntn24.png",MEX: NTN24
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: Q TV
+http://axr.life:80/096154/686531/1044538
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: RMS
+http://axr.life:80/096154/686531/1044539
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: SENDERO
+http://axr.life:80/096154/686531/1044540
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: STAR TVE
+http://axr.life:80/096154/686531/1044543
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/tbs.png",MEX: TBS
+http://axr.life:80/096154/686531/1044546
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/tcm.png",MEX: TCM
+http://axr.life:80/096154/686531/1044547
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TDN
+http://axr.life:80/096154/686531/1044548
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TELEFORMULA
+http://axr.life:80/096154/686531/1044549
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/telehit-plus-mx.png",MEX: TELEHIT PLUS
+http://axr.life:80/096154/686531/1044550
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/telenovelas.png",MEX: TELENOVELAS
+http://axr.life:80/096154/686531/1044551
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TELERITMO
+http://axr.life:80/096154/686531/1044552
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/televisa.png",MEX: TELEVISA
+http://axr.life:80/096154/686531/1044553
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/imagen-television-hz-mx.png",MEX: TELEVISA PUEBLA
+http://axr.life:80/096154/686531/1044554
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/televisapueblo.png",MEX: TELEVISA PUEBLO
+http://axr.life:80/096154/686531/1044555
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TIIN
+http://axr.life:80/096154/686531/1044556
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/tlc.png",MEX: TLC
+http://axr.life:80/096154/686531/1044557
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TLR
+http://axr.life:80/096154/686531/1044558
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/n-mas-mx.png",MEX: TV MAS
+http://axr.life:80/096154/686531/1044563
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TV5 FRANCIA
+http://axr.life:80/096154/686531/1044564
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/tvc.png",MEX: TVC
+http://axr.life:80/096154/686531/1044565
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/tvcdeportes.png",MEX: TVC DEPORTES
+http://axr.life:80/096154/686531/1044566
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/tvcdeportes.png",MEX: TVCD
+http://axr.life:80/096154/686531/1044567
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TVE
+http://axr.life:80/096154/686531/1044568
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TVO D
+http://axr.life:80/096154/686531/1044569
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/unicable-mx.png",MEX: UNICABLE
+http://axr.life:80/096154/686531/1044570
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://asiagrandiptv.us/logo/vtv.png",MEX: VTV
+http://axr.life:80/096154/686531/1044574
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: WOBI
+http://axr.life:80/096154/686531/1044576
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/multimedios-mx.png",MEX: MULTIMEDIOS P
+http://axr.life:80/096154/686531/1044577
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/countrypic.png",MEX: TELEMUNDO MEXICO
+http://axr.life:80/096154/686531/1044578
+
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/CANAL-PANDA.jpg",PT | PANDA | SD
+http://axr.life:80/096154/686531/1044776
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/RTP-A%C3%A7ores.jpeg",PT | RTP ACORES | SD
+http://axr.life:80/096154/686531/1044778
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/RTP-MADEIRA.jpg",PT | RTP MADEIRA | SD
+http://axr.life:80/096154/686531/1044779
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/RTP-MEMORIA-1024x127.png",PT | RTP MEMORIA | SD
+http://axr.life:80/096154/686531/1044780
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TLC-CHANNEL.jpg",PT | TLC | HD
+http://axr.life:80/096154/686531/1044788
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Zap_Viva_%28logo%29.png",PT | ZAP VIVA | HD
+http://axr.life:80/096154/686531/1044791
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/Globo-Portugal.jpg",PT | GLOBO PORTUGAL | HD
+http://axr.life:80/096154/686531/1044792
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TV-GLOBO-BR.png",PT | TV GLOBO | SD
+http://axr.life:80/096154/686531/1044793
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TVI-REALITY.jpg",PT | TVI REALITY | SD
+http://axr.life:80/096154/686531/1044794
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TV-RECORD.jpg",PT | TV RECORD | SD
+http://axr.life:80/096154/686531/1044795
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TVI-24.jpg",PT | TVI 24 | SD
+http://axr.life:80/096154/686531/1044796
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/TVI-FIC%C3%87AO.jpg",PT | TVI FICCAO | SD
+http://axr.life:80/096154/686531/1044797
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Logo_VH1_IT-1024x404.png",PT | VH1 | SD
+http://axr.life:80/096154/686531/1044798
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/AMC_logo_2016.svg_-1024x467.png",PT | AMC*
+http://axr.life:80/096154/686531/1044799
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TV-Globo-Premium.png",PT | GLOBO PREMIUM | SD
+http://axr.life:80/096154/686531/1044800
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/MVM.png",PT | MVM | SD
+http://axr.life:80/096154/686531/1044801
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC NOTICIAS FHD
+http://axr.life:80/096154/686531/1044802
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 1 FHD
+http://axr.life:80/096154/686531/1044803
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 3 FHD
+http://axr.life:80/096154/686531/1044804
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP 2 FHD
+http://axr.life:80/096154/686531/1044805
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://live.staticflickr.com/65535/49471300233_6b61da5570_t.jpg",PT | RTP INTERNATIONAL | HD
+http://axr.life:80/096154/686531/1044806
+#EXTINF:-1 group-title="PORTUGAL",PT | SPORT TV 4 | FHD
+http://axr.life:80/096154/686531/1044807
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://visi4k.site:8080/images/beb725de138849f8508b69e777f9f372.png",PT: TCV CABO
+http://axr.life:80/096154/686531/1044808
+
+
+Reino Unido
+#EXTINF: -1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="United Kingdom", BBC Four (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCFourHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/512px-BBC_Four_HD_Logo.svg.png" group-title="United Kingdom", BBC Four HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="BBCLifestyleAsia.uk" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="United Kingdom", BBC Lifestyle (576p) [Geo-blocked]
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="United Kingdom", BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF: -1 tvg-id="BBCOneCambridgeshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One Cambridge (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneEast.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One East (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneEastMidlands.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One East Midlands (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneYorkshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One East Yorkshire (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One London (540p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF: -1 tvg-id="BBCOneNorthEastCumbria.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One North East (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneNorthWest.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One North West (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneNorthernIreland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_One_Northern_Ireland_2021.svg/512px-BBC_One_Northern_Ireland_2021.svg.png" group-title="United Kingdom", BBC One Northern Ireland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneNorthernIrelandHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_One_Northern_Ireland_2021.svg/512px-BBC_One_Northern_Ireland_2021.svg.png" group-title="United Kingdom", BBC One Northern Ireland HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF: -1 tvg-id="BBCOneOxfordshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One Oxford (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneScotland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/BBC_One_Scotland_2021.png" group-title="United Kingdom", BBC One Scotland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneScotlandHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/BBC_One_Scotland_2021.png" group-title="United Kingdom", BBC One Scotland HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF: -1 tvg-id="BBCOneSouth.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One South (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="United Kingdom", BBC Three HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="United Kingdom", BBC Two England (540p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF: -1 tvg-id="BBCTwoHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="United Kingdom", BBC Two HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCWorldNewsEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="United Kingdom", BBC World News (480p)
+http://ott-cdn.ucom.am/s24/index.m3u8
+
+
+Venezuela
+#EXTINF:-1 group-title="PERU",VENEZUELA  | TV FAMILIA
+http://axr.life:80/00005733/MF159357C/998225
+#EXTINF:-1 group-title="PERU",Venezuela | ANTV
+http://axr.life:80/00005733/MF159357C/998229
+#EXTINF:-1 group-title="PERU",VENEZUELA | CORAZON LLANERO
+http://axr.life:80/00005733/MF159357C/998243
+#EXTINF:-1 group-title="PERU",VENEZUELA | IVC NETWORKS (L)
+http://axr.life:80/00005733/MF159357C/998244
+#EXTINF:-1 group-title="PERU",VENEZUELA | MERIDIANO TV opc 1
+http://axr.life:80/00005733/MF159357C/998226
+#EXTINF:-1 group-title="PERU",Venezuela | Meridiano TV opc 2
+http://axr.life:80/00005733/MF159357C/998231
+#EXTINF:-1 group-title="PERU",VENEZUELA | Promar TV
+http://axr.life:80/00005733/MF159357C/998237
+#EXTINF:-1 group-title="PERU",VENEZUELA | RETRO PLUS TV
+http://axr.life:80/00005733/MF159357C/998240
+#EXTINF:-1 group-title="PERU",VENEZUELA | TELEVEN
+http://axr.life:80/00005733/MF159357C/998235
+#EXTINF:-1 group-title="PERU",VENEZUELA | TVES
+http://axr.life:80/00005733/MF159357C/998236
+#EXTINF:-1 group-title="PERU",VENEZUELA | VENEVISION PLUS
+http://axr.life:80/00005733/MF159357C/998227
+#EXTINF:-1 group-title="PERU",VENEZUELA | VIVE TV opc 1
+http://axr.life:80/00005733/MF159357C/998228
+#EXTINF:-1 group-title="PERU",Venezuela* | Canal i
+http://axr.life:80/00005733/MF159357C/998224
+#EXTINF:-1 group-title="PERU",Venezuela* | TV ConCiencia
+http://axr.life:80/00005733/MF159357C/998223
+#EXTINF:-1 group-title="PERU",Venezuela* | Vale TV
+http://axr.life:80/00005733/MF159357C/998222
+#EXTINF:-1 group-title="PERU",Venezuela* | Vive Television
+http://axr.life:80/00005733/MF159357C/998220
+
+
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/telemundoboston.png",LA: TELEMUNDO BOSTON
+http://axr.life:80/096154/686531/1044332
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/telemundochicago.png",LA: TELEMUNDO CHICAGO
+http://axr.life:80/096154/686531/1044333
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo//UNIVISION(NEWYORK).jpg",LA: UNIVISION (NEW YORK)
+http://axr.life:80/096154/686531/1044338
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/univisiondallas.png",LA: UNIVISION DALLAS
+http://axr.life:80/096154/686531/1044339
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/univisiontelenovelas.png",LA: UNIVISION TELENOVELAS
+http://axr.life:80/096154/686531/1044340
+#EXTINF:-1 group-title="LATINO",LA: COSTA RICA: TD+
+http://axr.life:80/096154/686531/1044350
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo//RDTELEMICRO.jpg",LA: RD TELEMICRO
+http://axr.life:80/096154/686531/1044351
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo//UNIMASESTE.png",LA: UNIMAS ESTE
+http://axr.life:80/096154/686531/1044352
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/galavision.png",LA: GALAVISION
+http://axr.life:80/096154/686531/1044353
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/telemundointernacional.png",LA: TELEMUNDO INTERNACIONAL
+http://axr.life:80/096154/686531/1044363
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/aztecacorazon.png",LA: AZTECA CORAZON
+http://axr.life:80/096154/686531/1044413
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo//aztecaclick.png",LA: AZTECA CLIC
+http://axr.life:80/096154/686531/1044414
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/azteca7.png",LA: AZTECA 7
+http://axr.life:80/096154/686531/1044415
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/unicable.png",LA: UNICABLE
+http://axr.life:80/096154/686531/1044417
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo//STARPREMIUMCOMEDY.jpg",LA: STAR PREMIUM COMEDY
+http://axr.life:80/096154/686531/1044418
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/ecotv.png",LA: ECO TV
+http://axr.life:80/096154/686531/1044419
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/telesistema.png",LA: TELESISTEMA
+http://axr.life:80/096154/686531/1044420
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/unimas.png",LA: UNIMAS
+http://axr.life:80/096154/686531/1044421
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo//UNIVISION(DALLAS).png",LA: UNIVISION 23 (DALLAS)
+http://axr.life:80/096154/686531/1044422
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/univision.png",LA: UNIVISION
+http://axr.life:80/096154/686531/1044423
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/bandamax.png",LA: BANDAMAX
+http://axr.life:80/096154/686531/1044425
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/forotv.png",LA: FORO TV
+http://axr.life:80/096154/686531/1044426
+#EXTINF:-1 group-title="LATINO",LA: MULTIMEDIOS TELEVISION
+http://axr.life:80/096154/686531/1044430
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/telefe.png",LA: TELEFE
+http://axr.life:80/096154/686531/1044431
+#EXTINF:-1 group-title="LATINO" tvg-logo="https://asiagrandiptv.us/logo/pasiones.png",LA: PASIONES
+http://axr.life:80/096154/686531/1044432
+
+
+#EXTINF:-1 group-title="CANAIS | SERIES 24h" tvg-logo="http://brla.me/242.png",[24H] - Xena a Guerreira - Temp 01
+http://axr.life:80/096154/686531/766786
+#EXTINF:-1 group-title="CANAIS | SERIES 24h" tvg-logo="http://brla.me/242.png",[24H] - Xena a Guerreira - Temp 02
+http://axr.life:80/096154/686531/766787
+#EXTINF:-1 group-title="CANAIS | SERIES 24h" tvg-logo="http://brla.me/242.png",[24H] - Xena a Guerreira - Temp 03
+http://axr.life:80/096154/686531/766788
+#EXTINF:-1 group-title="CANAIS | SERIES 24h" tvg-logo="http://brla.me/242.png",[24H] - Xena a Guerreira - Temp 04
+http://axr.life:80/096154/686531/766789
+#EXTINF:-1 group-title="CANAIS | SERIES 24h" tvg-logo="http://brla.me/242.png",[24H] - Xena a Guerreira - Temp 05
+http://axr.life:80/096154/686531/766790
+#EXTINF:-1 group-title="CANAIS | SERIES 24h" tvg-logo="http://brla.me/242.png",[24H] - Xena a Guerreira - Temp 06
+http://axr.life:80/096154/686531/766791
