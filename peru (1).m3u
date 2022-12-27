@@ -1,0 +1,33 @@
+#EXTM3U 
+#EXTINF: -1 group-title="PERU", VENEZUELA  | TV FAMILIA
+http://axr.life:80/00005733/MF159357C/998225
+#EXTINF: -1 group-title="PERU", Venezuela | ANTV
+http://axr.life:80/00005733/MF159357C/998229
+#EXTINF: -1 group-title="PERU", VENEZUELA | CORAZON LLANERO
+http://axr.life:80/00005733/MF159357C/998243
+#EXTINF: -1 group-title="PERU", VENEZUELA | IVC NETWORKS (L)
+http://axr.life:80/00005733/MF159357C/998244
+#EXTINF: -1 group-title="PERU", VENEZUELA | MERIDIANO TV opc 1
+http://axr.life:80/00005733/MF159357C/998226
+#EXTINF: -1 group-title="PERU", Venezuela | Meridiano TV opc 2
+http://axr.life:80/00005733/MF159357C/998231
+#EXTINF: -1 group-title="PERU", VENEZUELA | Promar TV
+http://axr.life:80/00005733/MF159357C/998237
+#EXTINF: -1 group-title="PERU", VENEZUELA | RETRO PLUS TV
+http://axr.life:80/00005733/MF159357C/998240
+#EXTINF: -1 group-title="PERU", VENEZUELA | TELEVEN
+http://axr.life:80/00005733/MF159357C/998235
+#EXTINF: -1 group-title="PERU", VENEZUELA | TVES
+http://axr.life:80/00005733/MF159357C/998236
+#EXTINF: -1 group-title="PERU", VENEZUELA | VENEVISION PLUS
+http://axr.life:80/00005733/MF159357C/998227
+#EXTINF: -1 group-title="PERU", VENEZUELA | VIVE TV opc 1
+http://axr.life:80/00005733/MF159357C/998228
+#EXTINF: -1 group-title="PERU", Venezuela* | Canal i
+http://axr.life:80/00005733/MF159357C/998224
+#EXTINF: -1 group-title="PERU", Venezuela* | TV ConCiencia
+http://axr.life:80/00005733/MF159357C/998223
+#EXTINF: -1 group-title="PERU", Venezuela* | Vale TV
+http://axr.life:80/00005733/MF159357C/998222
+#EXTINF: -1 group-title="PERU", Venezuela* | Vive Television
+http://axr.life:80/00005733/MF159357C/998220

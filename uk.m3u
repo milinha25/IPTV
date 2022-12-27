@@ -1,0 +1,55 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="United Kingdom", BBC Four (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCFourHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/512px-BBC_Four_HD_Logo.svg.png" group-title="United Kingdom", BBC Four HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="BBCLifestyleAsia.uk" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="United Kingdom", BBC Lifestyle (576p) [Geo-blocked]
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="United Kingdom", BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF: -1 tvg-id="BBCOneCambridgeshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One Cambridge (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneEast.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One East (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneEastMidlands.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One East Midlands (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneYorkshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One East Yorkshire (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="BBCOneLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One London (540p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF: -1 tvg-id="BBCOneNorthEastCumbria.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One North East (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneNorthWest.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One North West (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneNorthernIreland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_One_Northern_Ireland_2021.svg/512px-BBC_One_Northern_Ireland_2021.svg.png" group-title="United Kingdom", BBC One Northern Ireland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneNorthernIrelandHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_One_Northern_Ireland_2021.svg/512px-BBC_One_Northern_Ireland_2021.svg.png" group-title="United Kingdom", BBC One Northern Ireland HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF: -1 tvg-id="BBCOneOxfordshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One Oxford (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneScotland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/BBC_One_Scotland_2021.png" group-title="United Kingdom", BBC One Scotland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCOneScotlandHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/BBC_One_Scotland_2021.png" group-title="United Kingdom", BBC One Scotland HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF: -1 tvg-id="BBCOneSouth.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="United Kingdom", BBC One South (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF: -1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="United Kingdom", BBC Three HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="United Kingdom", BBC Two England (540p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF: -1 tvg-id="BBCTwoHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="United Kingdom", BBC Two HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCUHD5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="United Kingdom", BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+#EXTINF: -1 tvg-id="BBCWorldNewsEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="United Kingdom", BBC World News (480p)
+http://ott-cdn.ucom.am/s24/index.m3u8

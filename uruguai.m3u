@@ -1,0 +1,23 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/1000XHORATV.jpg" group-title="URUGUAY", URU: 1000 X HORA TV
+http://axr.life:80/096154/686531/1044696
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/A+V.png" group-title="URUGUAY", URU: A+V
+http://axr.life:80/096154/686531/1044697
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/canal2lascano.png" group-title="URUGUAY", URU: CANAL 2 LASCANO
+http://axr.life:80/096154/686531/1044698
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/canal4.png" group-title="URUGUAY", URU: CANAL 4
+http://axr.life:80/096154/686531/1044699
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/CANAL4SALTO.jpg" group-title="URUGUAY", URU: CANAL 4 SALTO
+http://axr.life:80/096154/686531/1044700
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/canal6durazno.png" group-title="URUGUAY", URU: CANAL 6 DURAZNO
+http://axr.life:80/096154/686531/1044701
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/canal10.png" group-title="URUGUAY", URU: CANAL 10
+http://axr.life:80/096154/686531/1044702
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/canal12.png" group-title="URUGUAY", URU: CANAL 12
+http://axr.life:80/096154/686531/1044703
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/CARDINALTV.jpg" group-title="URUGUAY", URU: CARDINAL TV
+http://axr.life:80/096154/686531/1044704
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/tvciudad.png" group-title="URUGUAY", URU: TV CIUDAD
+http://axr.life:80/096154/686531/1044705
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/vtv.png" group-title="URUGUAY", URU: VTV
+http://axr.life:80/096154/686531/1044706

@@ -1,0 +1,25 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/canaluno.png" group-title="EQUADOR", EC: CANAL UNO
+http://axr.life:80/096154/686531/1044607
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/canelatv.png" group-title="EQUADOR", EC: CANELA TV
+http://axr.life:80/096154/686531/1044608
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/ecuadortv.png" group-title="EQUADOR", EC: ECUADOR TV
+http://axr.life:80/096154/686531/1044609
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/ecuavisa.png" group-title="EQUADOR", EC: ECUAVISA
+http://axr.life:80/096154/686531/1044610
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/gamavision.png" group-title="EQUADOR", EC: GAMAVISION
+http://axr.life:80/096154/686531/1044611
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/oromartv.png" group-title="EQUADOR", EC: OROMAR TV
+http://axr.life:80/096154/686531/1044612
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/tctelevision.png" group-title="EQUADOR", EC: TC TELEVISION
+http://axr.life:80/096154/686531/1044613
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/teleamazonas.png" group-title="EQUADOR", EC: TELE AMAZONAS
+http://axr.life:80/096154/686531/1044614
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/gamatv.png" group-title="EQUADOR", EC: GAMA TV
+http://axr.life:80/096154/686531/1044615
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/tvc.png" group-title="EQUADOR", EC: TVC
+http://axr.life:80/096154/686531/1044616
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/goltv.png" group-title="EQUADOR", EC: GOL TV
+http://axr.life:80/096154/686531/1044617
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/rts.png" group-title="EQUADOR", EC: RTS
+http://axr.life:80/096154/686531/1044618

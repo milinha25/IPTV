@@ -1,0 +1,21 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/C9N.jpg" group-title="PARAGUAY 2", PY: C9N
+http://axr.life:80/096154/686531/1061410
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/FARRAPLAY.png" group-title="PARAGUAY 2", PY: FARRA PLAY
+http://axr.life:80/096154/686531/1061411
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/imagentv.png" group-title="PARAGUAY 2", PY: GEN TV
+http://axr.life:80/096154/686531/1061412
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/latele.png" group-title="PARAGUAY 2", PY: LA TELE
+http://axr.life:80/096154/686531/1061413
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/NOTICIAS.jpg" group-title="PARAGUAY 2", PY: NOTICIAS
+http://axr.life:80/096154/686531/1061414
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/paraguaytv.png" group-title="PARAGUAY 2", PY: PARAGUAY TV
+http://axr.life:80/096154/686531/1061415
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/RADIOVENUS.png" group-title="PARAGUAY 2", PY: RADIO VENUS
+http://axr.life:80/096154/686531/1061416
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/RPC.png" group-title="PARAGUAY 2", PY: RPC
+http://axr.life:80/096154/686531/1061417
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/snt.png" group-title="PARAGUAY 2", PY: SNT
+http://axr.life:80/096154/686531/1061418
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/unicanal.png" group-title="PARAGUAY 2", PY: UNICANAL
+http://axr.life:80/096154/686531/1061419

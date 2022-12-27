@@ -1,0 +1,71 @@
+#EXTM3U 
+#EXTINF: -1 group-title="General", CANAL 13 CHILE CL
+http://axr.life:80/00005733/MF159357C/997577
+#EXTINF: -1 group-title="General", CHILE  | Canal 13 SD
+http://axr.life:80/00005733/MF159357C/997570
+#EXTINF: -1 group-title="General", CHILE  | Chilevision FHD
+http://axr.life:80/00005733/MF159357C/997567
+#EXTINF: -1 group-title="General", CHILE  | Emol TV
+http://axr.life:80/00005733/MF159357C/997572
+#EXTINF: -1 group-title="General", CHILE  | Mega FHD
+http://axr.life:80/00005733/MF159357C/997574
+#EXTINF: -1 group-title="General", CHILE  | Mega HD
+http://axr.life:80/00005733/MF159357C/997573
+#EXTINF: -1 group-title="General", CHILE  | T13 Noticias
+http://axr.life:80/00005733/MF159357C/997571
+#EXTINF: -1 group-title="General", CHILE  | Teletrak chile
+http://axr.life:80/00005733/MF159357C/997575
+#EXTINF: -1 group-title="General", CHILE  | TVN Culto (GEO)
+http://axr.life:80/00005733/MF159357C/997568
+#EXTINF: -1 group-title="General", CHILE  | TVN HD
+http://axr.life:80/00005733/MF159357C/997569
+#EXTINF: -1 group-title="General", Chile | CANAL 13 C HD
+http://axr.life:80/00005733/MF159357C/997582
+#EXTINF: -1 group-title="General", CHILE | CANAL 13 FHD
+http://axr.life:80/00005733/MF159357C/997580
+#EXTINF: -1 group-title="General", CHILE | Chilevision HD
+http://axr.life:80/00005733/MF159357C/997566
+#EXTINF: -1 group-title="General", CHILE | ETC TV CHILE
+http://axr.life:80/00005733/MF159357C/997586
+#EXTINF: -1 group-title="General", CHILE | Mega HD OPC 2
+http://axr.life:80/00005733/MF159357C/997578
+#EXTINF: -1 group-title="General", CHILE | Mega SD
+http://axr.life:80/00005733/MF159357C/997579
+#EXTINF: -1 group-title="General", CHILE | REC TV
+http://axr.life:80/00005733/MF159357C/997584
+#EXTINF: -1 group-title="General", CHILE | TV+
+http://axr.life:80/00005733/MF159357C/997585
+#EXTINF: -1 group-title="General", CHILE | TVN SD
+http://axr.life:80/00005733/MF159357C/997583
+#EXTINF: -1 group-title="General", Chile | TVU Concepcion
+http://axr.life:80/00005733/MF159357C/997581
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="General", CL: 13 C
+http://axr.life:80/096154/686531/1044669
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/caracolinternacional.png" group-title="General", CL: CARACOL INTERNACIONAL
+http://axr.life:80/096154/686531/1044670
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cdfbasico.png" group-title="General", CL: CDF BASICO
+http://axr.life:80/096154/686531/1044671
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cdfpremium.png" group-title="General", CL: CDF PREMIUM
+http://axr.life:80/096154/686531/1044672
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cdo.png" group-title="General", CL: CDO
+http://axr.life:80/096154/686531/1044673
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/chilevision.png" group-title="General", CL: CHILEVISION
+http://axr.life:80/096154/686531/1044674
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/citytv.png" group-title="General", CL: CITY TV
+http://axr.life:80/096154/686531/1044675
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cnn.png" group-title="General", CL: CNN
+http://axr.life:80/096154/686531/1044676
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/etctv.png" group-title="General", CL: ETC TV
+http://axr.life:80/096154/686531/1044677
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/lared.png" group-title="General", CL: LA RED
+http://axr.life:80/096154/686531/1044678
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/mega.png" group-title="General", CL: MEGA
+http://axr.life:80/096154/686531/1044679
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/teletrak.png" group-title="General", CL: TELETRAK
+http://axr.life:80/096154/686531/1044680
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/chilevision.png" group-title="General", CL: TV CHILE
+http://axr.life:80/096154/686531/1044683
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/tvplus.png" group-title="General", CL: TV+
+http://axr.life:80/096154/686531/1044684
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/tvn.png" group-title="General", CL: TVN
+http://axr.life:80/096154/686531/1044685

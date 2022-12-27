@@ -1,0 +1,13 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/AMERICATEVE.png" group-title="CUBA", CU: AMERICA TEVE
+http://axr.life:80/096154/686531/1044619
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cubavision.png" group-title="CUBA", CU: CUBAVISION
+http://axr.life:80/096154/686531/1044620
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/CUBAMAX.png" group-title="CUBA", CU: CUBAMAX
+http://axr.life:80/096154/686531/1044621
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cubavisioninternacional.png" group-title="CUBA", CU: CUBAVISION INTERNACIONAL
+http://axr.life:80/096154/686531/1044622
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/telerebeldecu.png" group-title="CUBA", CU: TELE REBELDE
+http://axr.life:80/096154/686531/1044623
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/tvmarti.png" group-title="CUBA", CU: TV MARTI
+http://axr.life:80/096154/686531/1044624
