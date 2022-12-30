@@ -108,72 +108,43 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Brasil - Desenhos", Retrô Cartoon (480p) [Not 24/7]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF: -1 tvg-id="Band.br" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="Brasil - Geral", Band (1080p) [Geo-blocked]
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/band_NORDESTE_UHD.png" group-title="Brasil - Geral", BAND NORDESTE UHD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/27700.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="Brasil - Geral", BAND SP 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14179.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/EPTV_CENTRAL.png" group-title="Brasil - Geral", EPTV CENTRAL HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/33369.ts
-#EXTINF: -1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" group-title="Brasil - Geral", Galicia TV América (720p)
-http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF: -1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/lW28rhK.png" group-title="Brasil - Geral", Gazeta (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tvgazeta
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/portugal_GLOBO.png" group-title="Brasil - Geral", GLOBO PORTUGAL 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/41876.ts
-#EXTINF: -1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="Brasil - Geral", Record TV SP (720p) [Geo-blocked]
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="Brasil - Geral", REDE BRASIL
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="Brasil - Geral", Record TV
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/33373.ts
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Brasil - Geral", Rede Brasil (RBTV) (720p)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="Brasil - Geral", REDE BRASIL HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13831.ts
-#EXTINF: -1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Brasil - Geral", Rede TV! SP (720p) [Not 24/7]
-https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
-#EXTINF: -1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Brasil - Geral", RTP Internacional (504p) [Not 24/7]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/4K_SBT.png" group-title="Brasil - Geral", SBT 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/41302.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/BRASIL_SBT.png" group-title="Brasil - Geral", SBT BRASIL HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/41307.ts
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/5/55/SBT_%281996-2001%29.png/revision/latest/top-crop/width/220/height/220?cb=20200318145135" group-title="Brasil - Geral", SBT NORDESTE HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/41305.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/SD_SBT.png" group-title="Brasil - Geral", SBT SD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/41303.ts
+#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/TVE_HD.png" group-title="Brasil - Geral", TVE HD
+http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14168.ts
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://i.imgur.com/IUDRW8l.png" group-title="Brasil - Geral", SBT TV Jornal Caruaru (720p) [Not 24/7]
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="TVJornaldoNordeste.br" tvg-logo="https://pa-str.srvsite.com/arquivos/5459/cabecalho-5459-20200226161907.png" group-title="Brasil - Geral", SBT TV Jornal Recife (720p) [Not 24/7]
-https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tv_brasil_2.png" group-title="Brasil - Geral", TV BRASIL 2
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/33508.ts
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w879884172.m3u8
 #EXTINF: -1 tvg-id="TV Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="Brasil - Geral", TV Brasil HD
 http://axr.life:80/096154/686531/374285
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Tv_brasil.png" group-title="Brasil - Geral", TV BRASIL HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13854.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tv-camara.png" group-title="Brasil - Geral", TV CAMARA HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13911.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="Brasil - Geral", TV CULTURA 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13855.ts
 #EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_cultura_m.png" group-title="Brasil - Geral", TV Cultura PR Catve (720p)
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/TV_Clube_GLOBO.png" group-title="Brasil - Geral", TV EDUCAÇÃO
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/33371.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/TV-Escola.png" group-title="Brasil - Geral", TV ESCOLA HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13857.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="Brasil - Geral", TV RA TIM BUM UHD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14095.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tv-senado.png" group-title="Brasil - Geral", TV SENADO HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13912.ts
-#EXTINF: -1 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="Brasil - Geral", TVE Bahia (720p) [Not 24/7]
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF: -1 tvg-id="TVMackenzie.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/512px-TV_Mackenzie_logo.svg.png" group-title="Brasil - Educativo", TV Mackenzie (480p)
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF: -1 tvg-id="TVUFG.br" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Brasil - Educativo", TV UFG (720p) [Not 24/7]
+#EXTINF: -1 tvg-id="TVUFG.br" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Brasil - Geral", TV Brasil - TV UFG (720p) [Not 24/7]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF: -1 tvg-id="UniTVPortoAlegre.br" tvg-logo="https://i.imgur.com/GmA5uuk.png" group-title="Brasil - Educativo", UniTV Porto Alegre (480p)
-http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF: -1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Brasil - Esportes", Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF: -1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/JlOLuEk.png" group-title="Brasil - Esportes", TNT Sports 2 Brasil (720p) [Not 24/7]
@@ -286,8 +257,6 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/33360.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14167.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="Brasil - FILMES & SERIES", AMC 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14132.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="Brasil - FILMES & SERIES", CANAL BRASIL 4K
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13672.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png" group-title="Brasil - FILMES & SERIES", CANAL SONY UHD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13730.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/cinemax.png" group-title="Brasil - FILMES & SERIES", CINEMAX 4K
@@ -394,12 +363,8 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14134.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13746.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Tnt-UHD.png" group-title="Brasil - FILMES & SERIES", TNT UHD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13745.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Universal_Channel.png" group-title="Brasil - FILMES & SERIES", UNIVERSAL CHANNEL 4K
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13747.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="Brasil - FILMES & SERIES", WARNER CHANNEL 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13750.ts
-#EXTINF: -1 group-title="Brasil - FILMES & SERIES", SYFY HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44132.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="Brasil - DOCUMENTARIOS", ANIMAL PLANET HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13666.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Discovery_channel.png" group-title="Brasil - DOCUMENTARIOS", DISCOVERY CHANNEL 4K
@@ -420,14 +385,8 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/27252.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13680.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/discoveryworld.png" group-title="Brasil - DOCUMENTARIOS", DISCOVERY WORLD UHD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13681.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/fishtv_HD.png" group-title="Brasil - DOCUMENTARIOS", FISH TV 4K
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/27253.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="Brasil - DOCUMENTARIOS", FOOD NETWORK UHD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13689.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/gnt_HD.png" group-title="Brasil - DOCUMENTARIOS", GNT HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13799.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/gnt_HD.png" group-title="Brasil - DOCUMENTARIOS", GNT UHD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13702.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="Brasil - DOCUMENTARIOS", H2 HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13703.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/History.png" group-title="Brasil - DOCUMENTARIOS", HISTORY CHANNEL 4K
@@ -438,8 +397,6 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13711.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13719.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/National_Geographic.png" group-title="Brasil - DOCUMENTARIOS", NATIONAL GEOGRAPHIC HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13718.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="Brasil - DOCUMENTARIOS", OFF HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13885.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/History.png" group-title="Brasil - DOCUMENTARIOS", THE HISTORY CHANNEL
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13848.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/History_HD.png" group-title="Brasil - DOCUMENTARIOS", THE HISTORY CHANNEL HD
@@ -474,14 +431,10 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/39357.ts
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF: -1 tvg-id="RecordNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Brasil - NOTICIAS", Record News (720p) [Geo-blocked]
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Record_News_U4K.png" group-title="Brasil - NOTICIAS", RECORD NEWS U4K
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14114.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="Brasil - NOTICIAS", RECORD NEWS UHD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13761.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/TV5.png" group-title="Brasil - NOTICIAS", TV5 MONDE
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13914.ts
-#EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/TVE_HD.png" group-title="Brasil - NOTICIAS", TVE HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14168.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="Brasil - INFANTIS", BOOMERANG 4K&8K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44137.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="Brasil - INFANTIS", TV RA TIM BUM 4K & 8K
@@ -513,68 +466,26 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13852.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="Brasil - INFANTIS", TV RA TIM BUM HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13904.ts
 
-#EXTINF: -1 group-title="Chile - General", CANAL 13 CHILE CL
-http://axr.life:80/00005733/MF159357C/997577
-#EXTINF: -1 group-title="Chile - General", CHILE  | Canal 13 SD
-http://axr.life:80/00005733/MF159357C/997570
-#EXTINF: -1 group-title="Chile - General", CHILE  | Chilevision FHD
-http://axr.life:80/00005733/MF159357C/997567
-#EXTINF: -1 group-title="Chile - General", CHILE  | Emol TV
-http://axr.life:80/00005733/MF159357C/997572
-#EXTINF: -1 group-title="Chile - General", CHILE  | Mega FHD
-http://axr.life:80/00005733/MF159357C/997574
-#EXTINF: -1 group-title="Chile - General", CHILE  | Mega HD
-http://axr.life:80/00005733/MF159357C/997573
 #EXTINF: -1 group-title="Chile - General", CHILE  | T13 Noticias
-http://axr.life:80/00005733/MF159357C/997571
-#EXTINF: -1 group-title="Chile - General", CHILE  | Teletrak chile
-http://axr.life:80/00005733/MF159357C/997575
-#EXTINF: -1 group-title="Chile - General", CHILE  | TVN Culto (GEO)
-http://axr.life:80/00005733/MF159357C/997568
-#EXTINF: -1 group-title="Chile - General", CHILE  | TVN HD
-http://axr.life:80/00005733/MF159357C/997569
-#EXTINF: -1 group-title="Chile - General", Chile | CANAL 13 C HD
-http://axr.life:80/00005733/MF159357C/997582
-#EXTINF: -1 group-title="Chile - General", CHILE | CANAL 13 FHD
-http://axr.life:80/00005733/MF159357C/997580
-#EXTINF: -1 group-title="Chile - General", CHILE | Chilevision HD
-http://axr.life:80/00005733/MF159357C/997566
-#EXTINF: -1 group-title="Chile - General", CHILE | ETC TV CHILE
-http://axr.life:80/00005733/MF159357C/997586
-#EXTINF: -1 group-title="Chile - General", CHILE | Mega HD OPC 2
-http://axr.life:80/00005733/MF159357C/997578
-#EXTINF: -1 group-title="Chile - General", CHILE | Mega SD
-http://axr.life:80/00005733/MF159357C/997579
-#EXTINF: -1 group-title="Chile - General", CHILE | REC TV
-http://axr.life:80/00005733/MF159357C/997584
-#EXTINF: -1 group-title="Chile - General", CHILE | TV+
-http://axr.life:80/00005733/MF159357C/997585
-#EXTINF: -1 group-title="Chile - General", CHILE | TVN SD
-http://axr.life:80/00005733/MF159357C/997583
-#EXTINF: -1 group-title="Chile - General", Chile | TVU Concepcion
-http://axr.life:80/00005733/MF159357C/997581
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", CL: 13 C
-http://axr.life:80/096154/686531/1044669
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 group-title="Chile - General", CHILE  | TVN
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas 2" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas 2
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF: -1 group-title="Chile - General", TVU
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", CL: 13
+https://unlimited1-cl-isp.dps.live/13cl/13cl.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/caracolinternacional.png" group-title="Chile - General", CL: CARACOL INTERNACIONAL
 http://axr.life:80/096154/686531/1044670
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cdfbasico.png" group-title="Chile - General", CL: CDF BASICO
-http://axr.life:80/096154/686531/1044671
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cdfpremium.png" group-title="Chile - General", CL: CDF PREMIUM
-http://axr.life:80/096154/686531/1044672
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cdo.png" group-title="Chile - General", CL: CDO
 http://axr.life:80/096154/686531/1044673
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/chilevision.png" group-title="Chile - General", CL: CHILEVISION
 http://axr.life:80/096154/686531/1044674
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/citytv.png" group-title="Chile - General", CL: CITY TV
-http://axr.life:80/096154/686531/1044675
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cnn.png" group-title="Chile - General", CL: CNN
 http://axr.life:80/096154/686531/1044676
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/etctv.png" group-title="Chile - General", CL: ETC TV
-http://axr.life:80/096154/686531/1044677
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/lared.png" group-title="Chile - General", CL: LA RED
-http://axr.life:80/096154/686531/1044678
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/mega.png" group-title="Chile - General", CL: MEGA
-http://axr.life:80/096154/686531/1044679
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/mega.png" group-title="Chile - General", MEGA
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/teletrak.png" group-title="Chile - General", CL: TELETRAK
 http://axr.life:80/096154/686531/1044680
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/chilevision.png" group-title="Chile - General", CL: TV CHILE
