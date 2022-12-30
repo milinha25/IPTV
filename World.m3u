@@ -1901,7 +1901,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
 #EXTINF: -1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="USA - Entertainment", Adult Swim Last Stream On The Left (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-#EXTINF: -1 tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/CaKq6Mt.png" group-title="Entertainment", Adult Swim Metalocalypse (1080p) [Geo-blocked]
+#EXTINF: -1 tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/CaKq6Mt.png" group-title="USA - Entertainment", Adult Swim Metalocalypse (1080p) [Geo-blocked]
 http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
 #EXTINF: -1 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="USA - Entertainment", Adult Swim West (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
@@ -1909,7 +1909,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_
 https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF: -1 tvg-id="BumblebeeTVThinknoodles.us" tvg-logo="https://i.imgur.com/puiUDbS.png" group-title="USA - Entertainment", Bumblebee TV Thinknoodles
 https://stitcheraws.unreel.me/wse-node04.powr.com/live/5afc8Bumblebee+TV10e932c833522744733/playlist.m3u8
-#EXTINF: -1 tvg-id="Circle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment", Circle (1080p)
+#EXTINF: -1 tvg-id="Circle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="USA - Entertainment", Circle (1080p)
 https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="TMZ.us" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA - Entertainment", TMZ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
