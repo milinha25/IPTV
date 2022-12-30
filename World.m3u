@@ -3,18 +3,8 @@
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF: -1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina - General", América TV (720p)
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//CANAL21.png" group-title="Argentina - General", ARG: CANAL 21
-http://axr.life:80/096154/686531/1061306
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//CANAL26.png" group-title="Argentina - General", ARG: CANAL 26
-http://axr.life:80/096154/686531/1061307
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//CANAL9.png" group-title="Argentina - General", ARG: CANAL 9
-http://axr.life:80/096154/686531/1061305
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//CANALDELACIUDAD.jpg" group-title="Argentina - General", ARG: CANAL DE LA CIUDAD
-http://axr.life:80/096154/686531/1061308
 #EXTINF: -1 tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/metro-ar.png" group-title="Argentina - General", ARG: METRO
 http://axr.life:80/096154/686531/1061349
-#EXTINF: -1 tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/tbs-ar.png" group-title="Argentina - General", ARG: TBS VERY FUNNY
-http://axr.life:80/096154/686531/1061364
 #EXTINF: -1 tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/tcm-ar.png" group-title="Argentina - General", ARG: TCM
 http://axr.life:80/096154/686531/1061365
 #EXTINF: -1 tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/telefe-ar.png" group-title="Argentina - General", ARG: TELEFE
@@ -23,8 +13,6 @@ http://axr.life:80/096154/686531/1061366
 http://axr.life:80/096154/686531/1061367
 #EXTINF: -1 tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/telemundo-international-ar.png" group-title="Argentina - General", ARG: TELEMUNDO
 http://axr.life:80/096154/686531/1061368
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//telesur.png" group-title="Argentina - General", ARG: TELESUR
-http://axr.life:80/096154/686531/1061369
 #EXTINF: -1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/1Chamk9.png" group-title="Argentina - General", BTV World (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/j2lPlFe.png" group-title="Argentina - General", Canal 13 La Rioja (480p)
@@ -37,20 +25,12 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF: -1 tvg-id="Canal3Formosa.ar" tvg-logo="https://i.imgur.com/foM8lUq.png" group-title="Argentina - General", Canal 3 Formosa (720p)
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-#EXTINF: -1 tvg-id="Canal3Rosario.ar" tvg-logo="https://i.imgur.com/YqnBcEs.png" group-title="Argentina - General", Canal 3 Rosario (704p) [Geo-blocked]
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF: -1 tvg-id="Canal34SanJuan.ar" tvg-logo="https://i.imgur.com/TLmP78U.png" group-title="Argentina - General", Canal 34 San Juan (720p)
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF: -1 tvg-id="Canal8MardelPlata.ar" tvg-logo="https://i.imgur.com/JQp1zsJ.jpg" group-title="Argentina - General", Canal 8 Mar del Plata (720p)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF: -1 tvg-id="Canal9LaRioja.ar" tvg-logo="https://i.imgur.com/Sy7lBuk.png" group-title="Argentina - General", Canal 9 La Rioja (720p)
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
 #EXTINF: -1 tvg-id="Canal9Multivision.ar" tvg-logo="https://i.imgur.com/2WFGiCh.png" group-title="Argentina - General", CANAL.9 MULTIVISION (720p) [Not 24/7]
 https://panel.dattalive.com/8250/8250/playlist.m3u8
-#EXTINF: -1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://i.imgur.com/Y4jdAW7.png" group-title="Argentina - General", CubaVision Internacional (480p) [Not 24/7]
-http://190.122.96.187:8888/http/010
-#EXTINF: -1 tvg-id="DreamforceBtl.us" tvg-logo="https://i.imgur.com/6SsaKEh.png" group-title="Argentina - General", Dreamforce Btl
-https://srv.panelcast.net/dreamforcebtl/dreamforcebtl/playlist.m3u8
 #EXTINF: -1 tvg-id="ElNueve.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina - General", El Nueve (1080p)
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF: -1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Argentina - General", El Trece (1080p)
@@ -59,8 +39,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF: -1 tvg-id="ElTresTV.ar" tvg-logo="https://i.imgur.com/ZbYWsFL.png" group-title="Argentina - General", El Tres TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Rosario3
-#EXTINF: -1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="Argentina - General", KBS World (Vietnamese Subtitles) (720p)
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="MileniumTV.ar" tvg-logo="https://i.imgur.com/wulssDz.png" group-title="Argentina - General", Milenium TV
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF: -1 tvg-id="MisionesCuatro.ar" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Argentina - General", Misiones Cuatro (480p)
@@ -73,16 +51,12 @@ https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="NorteTV.ar" tvg-logo="https://i.imgur.com/DXi1v4f.png" group-title="Argentina - General", Norte TV Canal 7 (360p)
 https://video.streamtvradio.com:8443/uv027/uv027/playlist.m3u8
-#EXTINF: -1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Argentina - General", RTP Internacional (504p) [Not 24/7]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="Argentina - General", San Isidro TV (360p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF: -1 tvg-id="SEOTV.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Argentina - General", SEO TV (1080p)
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF: -1 tvg-id="Telecinco.ar" tvg-logo="https://cvisiontv.com/wp-content/uploads/2022/06/cropped-logo-c-vision.png" group-title="Argentina - General", TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF: -1 tvg-id="TelediarioTV.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telediario_m.png" group-title="Argentina - General", Telediario TV
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 #EXTINF: -1 tvg-id="Telediez.ar" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Argentina - General", Telediez
 https://videohd.live:19360/8020/8020.m3u8
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Argentina - General", Telefe (720p)
@@ -91,40 +65,16 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF: -1 tvg-id="TeleMix.ar" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png" group-title="Argentina - General", TeleMix
 https://panel.dattalive.com/8068/8068/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//telesur.png" group-title="Argentina - General", ARG: TELESUR
+http://axr.life:80/096154/686531/1061369
 #EXTINF: -1 tvg-id="Telesol.ar" tvg-logo="https://i.imgur.com/16itqGz.png" group-title="Argentina - General", Telesol (TLS) (432p) [Not 24/7]
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-#EXTINF: -1 tvg-id="truTVLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="Argentina - General", truTV América Latina
-http://190.61.37.173:9001/play/a084/index.m3u8
-#EXTINF: -1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Argentina - General", TV Perú Internacional (460p) [Not 24/7]
-http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF: -1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="Argentina - General", TVG América (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF: -1 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="Argentina - General", TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="Uniteve.ar" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Argentina - General", Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF: -1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina - Noticero", 24/7 Canal de Noticias (720p)
-https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-#EXTINF: -1 tvg-id="HispanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png" group-title="Argentina - Noticero", HispanTV (480p)
-https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF: -1 tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="Argentina - Noticero", RT en Español (1080p) [Geo-blocked]
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF: -1 tvg-id="Telesur.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png" group-title="Argentina - Noticero", teleSUR (1080p)
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
-#EXTINF: -1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="Argentina - Noticero", TRT World (1080p) [Not 24/7]
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF: -1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="Argentina - Noticero", UN Web TV (540p)
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF: -1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="Argentina - Noticero", VPItv (1080p)
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF: -1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="Argentina - Noticero", Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
-#EXTINF: -1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Argentina - Peliculas", AMC Latin America
-http://209.91.213.10:8088/play/a013
-#EXTINF: -1 tvg-id="CineAr.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/512px-Cine.Ar_logo.svg.png" group-title="Argentina - Peliculas", CINE.AR (720p) [Not 24/7]
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF: -1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Argentina - Peliculas", Dust (1080p)
-https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF: -1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Argentina - Peliculas", Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Argentina - Peliculas", Sofy TV (720p)
@@ -137,14 +87,8 @@ https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF: -1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Argentina - Cultura", Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="Mirador.ar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png" group-title="Argentina - Cultura", Mirador
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 #EXTINF: -1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Argentina - Entretenimiento", Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF: -1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/niGj91H.png" group-title="Argentina - Entretenimiento", Crossing TV (Crossing Contenidos) (720p) [Not 24/7]
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-#EXTINF: -1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Argentina - Entretenimiento", LatinoKids (360p) [Not 24/7]
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF: -1 tvg-id="MetroTV.ar" tvg-logo="https://app.emediapp.com/image/logo-metro.png" group-title="Argentina - Entretenimiento", Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF: -1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Argentina - Entretenimiento", RCN Más (1080p)
@@ -1319,10 +1263,10 @@ http://axr.life:80/096154/686531/1044793
 http://axr.life:80/096154/686531/1044794
 #EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TV-RECORD.jpg" group-title="PORTUGAL", PT | TV RECORD | SD
 http://axr.life:80/096154/686531/1044795
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TVI-24.jpg" group-title="PORTUGAL", PT | TVI 24 | SD
-http://axr.life:80/096154/686531/1044796
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/TVI-FIC%C3%87AO.jpg" group-title="PORTUGAL", PT | TVI FICCAO | SD
-http://axr.life:80/096154/686531/1044797
+#EXTINF: -1 tvg-id="TVI.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="Portugal", TVI (480p)
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF: -1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/08xTtYD.png" group-title="Portugal", TVI Reality (480p)
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Logo_VH1_IT-1024x404.png" group-title="PORTUGAL", PT | VH1 | SD
 http://axr.life:80/096154/686531/1044798
 #EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/AMC_logo_2016.svg_-1024x467.png" group-title="PORTUGAL", PT | AMC*
