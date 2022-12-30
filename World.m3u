@@ -474,8 +474,14 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
 #EXTINF: -1 group-title="Chile - General", TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", CL: 13
-https://unlimited1-cl-isp.dps.live/13cl/13cl.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", 13c
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", 13 Entretencion 
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", 13 Prime
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", 13 Teleseries 
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/caracolinternacional.png" group-title="Chile - General", CL: CARACOL INTERNACIONAL
 http://axr.life:80/096154/686531/1044670
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/cdo.png" group-title="Chile - General", CL: CDO
