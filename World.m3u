@@ -824,18 +824,26 @@ https://16live00.akamaized.net/CNN/index.m3u8
 https://trn10.tulix.tv/WAGA-FOX/index.m3u8
 #EXTINF: -1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="USA - News", Fox News Channel (720p)
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/telemundoboston.png" group-title="USA - General", LA: TELEMUNDO BOSTON
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/telemundoboston.png" group-title="USA - General", TELEMUNDO BOSTON
 http://axr.life:80/096154/686531/1044332
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/telemundochicago.png" group-title="USA - General", LA: TELEMUNDO CHICAGO
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/telemundochicago.png" group-title="USA - General", TELEMUNDO CHICAGO
 http://axr.life:80/096154/686531/1044333
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/univision.png" group-title="USA - General", LA: UNIVISION
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/univision.png" group-title="USA - General", UNIVISION
 http://axr.life:80/096154/686531/1044423
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/univisiondallas.png" group-title="USA - General", LA: UNIVISION DALLAS
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/univisiondallas.png" group-title="USA - General",  UNIVISION DALLAS
 http://axr.life:80/096154/686531/1044339
-#EXTINF: -1 tvg-ogo="https://asiagrandiptv.us/logo//UNIVISION(DALLAS).png" group-title="USA - General", LA: UNIVISION 23 (DALLAS)
+#EXTINF: -1 tvg-ogo="https://asiagrandiptv.us/logo//UNIVISION(DALLAS).png" group-title="USA - General", UNIVISION 23 (DALLAS)
 http://axr.life:80/096154/686531/1044422
-#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//UNIVISION(NEWYORK).jpg" group-title="USA - General", LA: UNIVISION (NEW YORK)
+#EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//UNIVISION(NEWYORK).jpg" group-title="USA - General", UNIVISION (NEW YORK)
 http://axr.life:80/096154/686531/1044338
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="USA - General", The CW
+https://h1.ustvgo.la/CW/myStream/chunks.m3u8?nimblesessionid=363490959&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxOjQ2OjA2IEFNJmhhc2hfdmFsdWU9TGxtTExVU0dFT2V2a29YZ0laamhQZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="USA - General", PBS
+https://h1.ustvgo.la/PBS/myStream/chunks.m3u8?nimblesessionid=363493115&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxOjUwOjA4IEFNJmhhc2hfdmFsdWU9WFNrcTBYb29qMWZrZ1BFSC9VT1F5Zz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF: -1 tvg-logo="" group-title="USA - General", Freeform
+https://h3.ustvgo.la/Freeform/myStream/chunks.m3u8?nimblesessionid=328123922&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxOjUyOjEyIEFNJmhhc2hfdmFsdWU9NDZOb29wVzRheTU5QXNUSTN4bXNidz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF: -1 tvg-logo="" group-title="USA - General", SYFY
+https://h4.ustvgo.la/SYFY/myStream/chunks.m3u8?nimblesessionid=327446224&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxOjUzOjE0IEFNJmhhc2hfdmFsdWU9ZVhvVWRNVG11eWFuMEV0SUgrbFUvdz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 01
 http://axr.life:80/096154/686531/766786
