@@ -464,6 +464,29 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13852.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="Brasil - INFANTIS", TV RA TIM BUM HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13904.ts
 
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA - TEST",TVA Sports 2 HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",TVA Sports HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",TVA HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHQsgaemNqURDXlJSCgpOjk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",ICI Radio-Canada Télé HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHjArCj_vDb-pKvpwUjhJz0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",ICI RDI HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGyljmfP9J1U0xMcoXMukYI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",Global Toronto,Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",CBC Montreal
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbmt.montreal.qc.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA", CBC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMq8DNwrxV6TvE0OdvlXYok/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA", CBC Calgary HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBWogmhfeZPH-DmDCpKMZE4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA", CBC Calgary
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8?checkedby:iptvcat.com
+
 #EXTINF: -1 group-title="Chile - General", CHILE  | T13 Noticias
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 group-title="Chile - General", CHILE  | TVN
@@ -836,14 +859,17 @@ http://axr.life:80/096154/686531/1044339
 http://axr.life:80/096154/686531/1044422
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo//UNIVISION(NEWYORK).jpg" group-title="USA - General", UNIVISION (NEW YORK)
 http://axr.life:80/096154/686531/1044338
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="USA - General", The CW
-https://h1.ustvgo.la/CW/myStream/chunks.m3u8?nimblesessionid=363490959&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxOjQ2OjA2IEFNJmhhc2hfdmFsdWU9TGxtTExVU0dFT2V2a29YZ0laamhQZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="USA - General", PBS
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="USA - General", The CW 11 (Central PA)
+https://cdn006.teleuptv.net/rTK2EQCVCX/playlist.m3u8 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="USA - General", PBS
 https://h1.ustvgo.la/PBS/myStream/chunks.m3u8?nimblesessionid=363493115&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxOjUwOjA4IEFNJmhhc2hfdmFsdWU9WFNrcTBYb29qMWZrZ1BFSC9VT1F5Zz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF: -1 tvg-logo="" group-title="USA - General", Freeform
-https://h3.ustvgo.la/Freeform/myStream/chunks.m3u8?nimblesessionid=328123922&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxOjUyOjEyIEFNJmhhc2hfdmFsdWU9NDZOb29wVzRheTU5QXNUSTN4bXNidz09JnZhbGlkbWludXRlcz0yNDA=
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145952?checkedby:iptvcat.net
+#EXTINF: -1 tvg-logo="" group-title="USA - General", Freeform
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/freeform.east.us.m3u8?checkedby:iptvcat.net
 #EXTINF: -1 tvg-logo="" group-title="USA - General", SYFY
-https://h4.ustvgo.la/SYFY/myStream/chunks.m3u8?nimblesessionid=327446224&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxOjUzOjE0IEFNJmhhc2hfdmFsdWU9ZVhvVWRNVG11eWFuMEV0SUgrbFUvdz09JnZhbGlkbWludXRlcz0yNDA=
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145998?checkedby:iptvcat.net
+#EXTINF: -1 tvg-logo="" group-title="USA - General", SYFY (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.eastern.us.m3u8?checkedby:iptvcat.net
 
 #EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 01
 http://axr.life:80/096154/686531/766786
