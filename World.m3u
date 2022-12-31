@@ -697,52 +697,60 @@ http://axr.life:80/096154/686531/1067727
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/willax.png" group-title="PERU", PE: WILLAX
 http://axr.life:80/096154/686531/1067728
 
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/CANAL-PANDA.jpg" group-title="PORTUGAL", PT | PANDA | SD
-http://axr.life:80/096154/686531/1044776
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/RTP-A%C3%A7ores.jpeg" group-title="PORTUGAL", PT | RTP ACORES | SD
-http://axr.life:80/096154/686531/1044778
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/RTP-MADEIRA.jpg" group-title="PORTUGAL", PT | RTP MADEIRA | SD
-http://axr.life:80/096154/686531/1044779
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/RTP-MEMORIA-1024x127.png" group-title="PORTUGAL", PT | RTP MEMORIA | SD
-http://axr.life:80/096154/686531/1044780
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TLC-CHANNEL.jpg" group-title="PORTUGAL", PT | TLC | HD
-http://axr.life:80/096154/686531/1044788
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Zap_Viva_%28logo%29.png" group-title="PORTUGAL", PT | ZAP VIVA | HD
-http://axr.life:80/096154/686531/1044791
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/Globo-Portugal.jpg" group-title="PORTUGAL", PT | GLOBO PORTUGAL | HD
-http://axr.life:80/096154/686531/1044792
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TV-GLOBO-BR.png" group-title="PORTUGAL", PT | TV GLOBO | SD
-http://axr.life:80/096154/686531/1044793
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TVI-REALITY.jpg" group-title="PORTUGAL", PT | TVI REALITY | SD
-http://axr.life:80/096154/686531/1044794
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TV-RECORD.jpg" group-title="PORTUGAL", PT | TV RECORD | SD
-http://axr.life:80/096154/686531/1044795
+#EXTINF: -1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Portugal", RTP1 
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b640000_slpor.m3u8?token=1662436800_16b04c525d93bd87e57878b38d27b620eb8779d5
+#EXTINF: -1 tvg-id="SIC.pt" group-title="Portugal", SIC 
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF: -1 tvg-id="TVI.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="Portugal", TVI (480p)
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF: -1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/08xTtYD.png" group-title="Portugal", TVI Reality (480p)
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Logo_VH1_IT-1024x404.png" group-title="PORTUGAL", PT | VH1 | SD
-http://axr.life:80/096154/686531/1044798
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/AMC_logo_2016.svg_-1024x467.png" group-title="PORTUGAL", PT | AMC*
-http://axr.life:80/096154/686531/1044799
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TV-Globo-Premium.png" group-title="PORTUGAL", PT | GLOBO PREMIUM | SD
-http://axr.life:80/096154/686531/1044800
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/MVM.png" group-title="PORTUGAL", PT | MVM | SD
-http://axr.life:80/096154/686531/1044801
-#EXTINF: -1 group-title="PORTUGAL", PT: SIC NOTICIAS FHD
-http://axr.life:80/096154/686531/1044802
-#EXTINF: -1 group-title="PORTUGAL", PT: RTP 1 FHD
-http://axr.life:80/096154/686531/1044803
-#EXTINF: -1 group-title="PORTUGAL", PT: RTP 3 FHD
-http://axr.life:80/096154/686531/1044804
-#EXTINF: -1 group-title="PORTUGAL", PT | RTP 2 FHD
-http://axr.life:80/096154/686531/1044805
-#EXTINF: -1 tvg-logo="https://live.staticflickr.com/65535/49471300233_6b61da5570_t.jpg" group-title="PORTUGAL", PT | RTP INTERNATIONAL | HD
-http://axr.life:80/096154/686531/1044806
-#EXTINF: -1 group-title="PORTUGAL", PT | SPORT TV 4 | FHD
-http://axr.life:80/096154/686531/1044807
-#EXTINF: -1 tvg-logo="http://visi4k.site:8080/images/beb725de138849f8508b69e777f9f372.png" group-title="PORTUGAL", PT: TCV CABO
-http://axr.life:80/096154/686531/1044808
+#EXTINF:-1 group-title="PORTUGAL",PT | GLOBO PORTUGAL | HD
+http://axr.life:80/00005733/MF159357C/998151
+#EXTINF:-1 group-title="PORTUGAL",PT | GLOBO PREMIUM | SD
+http://axr.life:80/00005733/MF159357C/998159
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP 2 FHD
+http://axr.life:80/00005733/MF159357C/998164
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP 2 | UHD
+http://axr.life:80/00005733/MF159357C/998078
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP ACORES | SD
+http://axr.life:80/00005733/MF159357C/998137
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP INTERNATIONAL | HD
+http://axr.life:80/00005733/MF159357C/998165
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP MADEIRA | SD
+http://axr.life:80/00005733/MF159357C/998138
+#EXTINF:-1 group-title="PORTUGAL",PT | RTP MEMORIA | SD
+http://axr.life:80/00005733/MF159357C/998139
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC CARAS | SD
+http://axr.life:80/00005733/MF159357C/998140
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC KIDS | SD
+http://axr.life:80/00005733/MF159357C/998141
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC MULHER | SD
+http://axr.life:80/00005733/MF159357C/998142
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC RADICAL | SD
+http://axr.life:80/00005733/MF159357C/998143
+#EXTINF:-1 group-title="PORTUGAL",PT | SIC | UHD
+http://axr.life:80/00005733/MF159357C/998079
+#EXTINF:-1 group-title="PORTUGAL",PT | TVI 24 | SD
+http://axr.life:80/00005733/MF159357C/998155
+#EXTINF:-1 group-title="PORTUGAL",PT | TVI FICCAO | SD
+http://axr.life:80/00005733/MF159357C/998156
+#EXTINF:-1 group-title="PORTUGAL",PT | TVI REALITY | SD
+http://axr.life:80/00005733/MF159357C/998153
+#EXTINF:-1 group-title="PORTUGAL",PT | TVI | UHD
+http://axr.life:80/00005733/MF159357C/998089
+#EXTINF:-1 group-title="PORTUGAL",PT | VH1 | SD
+http://axr.life:80/00005733/MF159357C/998157
+#EXTINF:-1 group-title="PORTUGAL",PT | ZAP VIVA | HD
+http://axr.life:80/00005733/MF159357C/998150
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 1 FHD
+http://axr.life:80/00005733/MF159357C/998162
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 3 FHD
+http://axr.life:80/00005733/MF159357C/998163
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC NOTICIAS FHD
+http://axr.life:80/00005733/MF159357C/998161
+#EXTINF:-1 group-title="PORTUGAL",PT: TCV CABO
+http://axr.life:80/00005733/MF159357C/998167
 
 #EXTINF: -1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="United Kingdom", BBC Four (540p) [Geo-blocked]
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
