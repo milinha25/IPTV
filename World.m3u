@@ -464,7 +464,7 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13852.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="Brasil - INFANTIS", TV RA TIM BUM HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13904.ts
 
-#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA - TEST",TVA Sports 2 HD (FR)
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",TVA Sports 2 HD (FR)
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="CANADA",TVA Sports HD (FR)
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:iptvcat.com
