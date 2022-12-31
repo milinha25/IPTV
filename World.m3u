@@ -461,32 +461,20 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13852.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44145.ts
 #EXTINF: -1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="Brasil - INFANTIS", TV RA TIM BUM HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13904.ts
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/657px-CBC_Logo_1992-Present.svg.png" group-title="CANADA", CBC Calgary
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/657px-CBC_Logo_1992-Present.svg.png" group-title="CANADA", CBC Calgary HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBWogmhfeZPH-DmDCpKMZE4/ts?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/657px-CBC_Logo_1992-Present.svg.png" group-title="CANADA", CBC Toronto
+http://tv.masterplaytv.xyz:8000/LTN737/7647385926/3671?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/657px-CBC_Logo_1992-Present.svg.png" group-title="CANADA", CBC HD
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMq8DNwrxV6TvE0OdvlXYok/ts?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/657px-CBC_Logo_1992-Present.svg.png" group-title="CANADA", CBC Montreal
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbc.cbmt.montreal.qc.ca.m3u8?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/375px-CTV_logo_2018.svg.png" group-title="CANADA", CTV
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/375px-CTV_logo_2018.svg.png" group-title="CANADA", CTV Toronto
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/54000?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="CANADA", Global Toronto
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/330px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA", ICI Radio-Canada Télé HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHjArCj_vDb-pKvpwUjhJz0/ts?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/330px-ICI_RDI_logo.svg.png" group-title="CANADA", ICI RDI HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGyljmfP9J1U0xMcoXMukYI/ts?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Groupe_TVA_2020_logo.svg/330px-Groupe_TVA_2020_logo.svg.png" group-title="CANADA", TVA HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Groupe_TVA_2020_logo.svg/330px-Groupe_TVA_2020_logo.svg.png" group-title="CANADA", TVA 2 HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Groupe_TVA_2020_logo.svg/330px-Groupe_TVA_2020_logo.svg.png" group-title="CANADA", TVA HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHQsgaemNqURDXlJSCgpOjk/ts?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVA_Sports_2021_logo.png" group-title="CANADA", TVA Sports 2 HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
+http://185.71.64.167:80/307245103371/307245103371/83356?checkedby:dailyfreeiptvlist.com
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Groupe_TVA_2020_logo.svg/330px-Groupe_TVA_2020_logo.svg.png" group-title="CANADA", TVA Montreal HD (FR)
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81295?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVA_Sports_2021_logo.png" group-title="CANADA", TVA Sports HD (FR)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:iptvcat.com
+http://37723998.to:2052/dale1/1234/21788?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", 13 Entretencion
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/13c.png" group-title="Chile - General", 13 Prime
@@ -572,31 +560,29 @@ http://axr.life:80/096154/686531/1044612
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/rts.png" group-title="EQUADOR", EC: RTS
 http://axr.life:80/096154/686531/1044618
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/225px-Antena_3_2017.svg.png" group-title="ESPANHA", ANTENA 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5555.ts?checkedby:iptvcat.com
+http://51.222.82.89:22829/1212/1212/323594?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/225px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPANHA", FDF Telecinco
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fdf.es.m3u8?checkedby:iptvcat.com
+http://stream.streamhubtv.xyz:8080/marina/marina/22369?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/300px-MEGA.svg.png" group-title="ESPANHA", MEGA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5688.ts?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/300px-MEGA.svg.png" group-title="ESPANHA", Mega
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mega.es.m3u8?checkedby:iptvcat.com
+http://tv.masterplaytv.xyz:8000/LTN737/7647385926/55026?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/225px-Telecinco.svg.png" group-title="ESPANHA", Telecinco
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/telecinco.es.m3u8?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/225px-TVE.svg.png" group-title="ESPANHA", TVE INTERNACIONAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5745.ts?checkedby:iptvcat.com
+http://tv.masterplaytv.xyz:8000/LTN737/7647385926/55013?checkedby:dailyfreeiptvlist.com
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/225px-TVE.svg.png" group-title="ESPANHA", RTVE
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/225px-Canale_5_-_2018_logo.svg.png" group-title="ITALIA", CANALE 5
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24479.ts?checkedby:iptvcat.com
+http://stream.streamhubtv.xyz:8080/marina/marina/648138?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/300px-Rai_1_-_Logo_2016.svg.png" group-title="ITALIA", RAI 1 HD (720p)
-http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15428?checkedby:iptvcat.com
+http://146.59.145.53:80/anna/anna/168961?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/300px-Rai_2_-_Logo_2016.svg.png" group-title="ITALIA", RAI 2 HD (720p)
-http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15429?checkedby:iptvcat.com
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23654.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/300px-Rai_3_-_Logo_2016.svg.png" group-title="ITALIA", RAI 3 HD (1080p)
-http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15323?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/300px-Rai_3_-_Logo_2016.svg.png" group-title="ITALIA", RAI 3 HD (720p)
-http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15430?checkedby:iptvcat.com
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/157087?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/300px-Rai_4_-_Logo_2016.svg.png" group-title="ITALIA", RAI 4 HD (720p)
-http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15368?checkedby:iptvcat.com
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/157080?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/300px-Rai_5_-_Logo_2017.svg.png" group-title="ITALIA", RAI 5 HD (1080p)
-http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15325?checkedby:iptvcat.com
+http://stream.streamhubtv.xyz:8080/marina/marina/648117?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/300px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIA", RAI MOVIE
 http://cineapp.org:8000/Fernando/Fernando/2674?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/univisiontelenovelas.png" group-title="LATINO", LA: UNIVISION TELENOVELAS
@@ -646,7 +632,7 @@ http://axr.life:80/096154/686531/1044474
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/isat.png" group-title="MEXICO", MEX: I SAT
 http://axr.life:80/096154/686531/1044516
 #EXTINF: -1 tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/las-estrellas-mx.png" group-title="MEXICO", MEX: LAS ESTRELLAS
-https://www.twitch.tv/24xm26tm
+http://mail.vipmek.com:8800/565656/565656/38644?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/330px-Multimedios_Television.png" group-title="MEXICO", MEX: MULTIMEDIOS
 http://axr.life:80/096154/686531/1044526
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/330px-Multimedios_Television.png" group-title="MEXICO", MEX: MULTIMEDIOS P
@@ -707,22 +693,22 @@ http://axr.life:80/096154/686531/1067727
 http://axr.life:80/096154/686531/1067728
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png" group-title="PORTUGAL", Canal 11 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159589?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://n1entreter.com.br/wp-content/uploads/2018/02/globoportugal.png" group-title="PORTUGAL", Globo Portugal
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81820?checkedby:dailyfreeiptvlist.com
+#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" group-title="PORTUGAL", RTP 1 (480p)
+http://162.212.178.69:41042/bysid/608?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" group-title="PORTUGAL", RTP 1 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.1.pt.m3u8?checkedby:iptvcat.com
+http://rv.therevenge.co:80/565656/565656/81832?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp2_00.jpg" group-title="PORTUGAL", RTP 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25065.ts?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp2_00.jpg" group-title="PORTUGAL", RTP 2
+http://rv.therevenge.co:80/565656/565656/81832?checkedby:dailyfreeiptvlist.com
+#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" group-title="PORTUGAL", RTP 3
+http://cineapp.org:8000/Fernando/Fernando/3412?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAc%CC%A7ores_positivo-1.jpg" group-title="PORTUGAL", RTP ACORES
 http://cineapp.org:8000/Fernando/Fernando/3499?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" group-title="PORTUGAL", RTP International
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.inter.pt.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpmemoria_positivo.jpg" group-title="PORTUGAL", RTP MEMORIA
 http://cineapp.org:8000/Fernando/Fernando/2319?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" group-title="PORTUGAL", RTP1 (480p)
-http://162.212.178.69:41042/bysid/608?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp2_00.jpg" group-title="PORTUGAL", RTP2
-http://cineapp.org:8000/Fernando/Fernando/2320?checkedby:iptvcat.com
-#EXTINF: -1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" group-title="PORTUGAL", RTP3
-http://cineapp.org:8000/Fernando/Fernando/3412?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="PORTUGAL", SIC
 http://cineapp.org:8000/Fernando/Fernando/3410?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="PORTUGAL", SIC (1080p)
@@ -764,15 +750,15 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd
 #EXTINF: -1 tvg-id="BBCWorldNewsEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="United Kingdom", BBC World News (480p)
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Channel_4_logo_1982.svg/640px-Channel_4_logo_1982.svg.png" group-title="United Kingdom", CHANNEL 4
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SH4MBjENAW90ExsjBprajWw/ts?checkedby:iptvcat.com
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59006.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/640px-Channel_5_Logo_2016_SVG.svg.png" group-title="United Kingdom", CHANNEL 5
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP-4eJ2c7gBcYfegRY2xul8/ts?checkedby:iptvcat.com
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59007.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/360px-CITV_logo_2013.svg.png" group-title="United Kingdom", CITV
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/citv.uk.m3u8?checkedby:iptvcat.com
+http://stream.streamhubtv.xyz:8080/marina/marina/48086?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/240px-ITV1_logo_%282022%29.svg.png" group-title="United Kingdom", ITV
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.1.uk.m3u8?checkedby:iptvcat.com
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/240px-ITV1_logo_%282022%29.svg.png" group-title="United Kingdom", ITV 1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFjo2DiR7PHM8iuNbtsCGIM/ts?checkedby:iptvcat.com
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/80340?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="USA - General", ABC 7 WABC-DT1
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
 #EXTINF: -1 tvg-id="WJLADT1.us" tvg-logo="https://i.imgur.com/LttuGfq.png" group-title="USA - General", ABC 7 Washington DC (WJLA) (720p)
@@ -827,10 +813,10 @@ https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 #EXTINF: -1 tvg-id="WJLPDT7.us" tvg-logo="https://i.imgur.com/o92WOqG.png" group-title="USA - General", Story Television WJLP-DT7
 http://v-ny.theus6tv.duckdns.org/hls/33.7/playlist.m3u8
-#EXTINF: -1 group-title="USA - General", SYFY
+#EXTINF: -1 tvg-logo="https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="USA - General", SYFY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145998?checkedby:iptvcat.net
-#EXTINF: -1 group-title="USA - General", SYFY (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.eastern.us.m3u8?checkedby:iptvcat.net
+#EXTINF: -1 tvg-logo="https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="USA - General", SYFY (East) US
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81174?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="USA - General", Telemundo 47 WNJU-DT1
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/telemundoboston.png" group-title="USA - General", TELEMUNDO BOSTON
@@ -841,8 +827,8 @@ http://axr.life:80/096154/686531/1044333
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF: -1 tvg-id="WNJUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="USA - General", teleXitos WNJU-DT2 (432p)
 http://v-ny.theus6tv.duckdns.org/hls/47.2/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="USA - General", The CW 11 (Central PA)
-https://cdn006.teleuptv.net/rTK2EQCVCX/playlist.m3u8 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="USA - General", PBS
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="USA - General", The CW
+http://stream.streamhubtv.xyz:8080/marina/marina/22490?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-id="TheRetroChannel.us" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="USA - General", The Retro Channel (1080p) [Not 24/7]
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF: -1 group-title="USA - General", True History (720p)
@@ -879,9 +865,6 @@ https://16live00.akamaized.net/CNN/index.m3u8
 https://trn10.tulix.tv/WAGA-FOX/index.m3u8
 #EXTINF: -1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="USA - News", Fox News Channel (720p)
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-
-
-
 #EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 01
 http://axr.life:80/096154/686531/766786
 #EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 02
@@ -894,5 +877,3 @@ http://axr.life:80/096154/686531/766789
 http://axr.life:80/096154/686531/766790
 #EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 06
 http://axr.life:80/096154/686531/766791
-
-
