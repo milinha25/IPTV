@@ -697,22 +697,14 @@ http://axr.life:80/096154/686531/1067727
 #EXTINF: -1 tvg-logo="https://asiagrandiptv.us/logo/willax.png" group-title="PERU", PE: WILLAX
 http://axr.life:80/096154/686531/1067728
 
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/RTP-A%C3%A7ores.jpeg" group-title="PORTUGAL", PT: RTP ACORES 
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/chunklist_b1290000_slpor.m3u8
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/RTP-MEMORIA-1024x127.png" group-title="PORTUGAL", PT: RTP MEMORIA 
-https://ptiptv.tk/rtpm.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
-#EXTINF: -1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/RTP-MEMORIA-1024x127.png" group-title="PORTUGAL", PT: RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
-#EXTINF: -1 tvg-id="TVI.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="Portugal", PT: TVI 
-https://video-auth4.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=385157546&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxMjo0NzozMCBBTSZoYXNoX3ZhbHVlPUhoZUMyZzVGM05sOWM2L0lYaTJTeUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iNTJhZWZlMi02NmEwLTQyMjUtYWZhYi1iMWE0MTIzNjY4OTA=
-#EXTINF: -1 group-title="PORTUGAL", PT: SIC 
-https://sic.live.impresa.pt/sic540p.m3u8
-#EXTINF: -1 group-title="PORTUGAL", PT: RTP 1 FHD
-https://ptiptv.tk/rtp1.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
-#EXTINF: -1 group-title="PORTUGAL", PT: RTP 3 FHD
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b1290000_DVR_slpor.m3u8
-#EXTINF: -1 group-title="PORTUGAL", PT | RTP 2 FHD
-https://ptiptv.tk/rtp2.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
+#EXTINF: -1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Portugal", RTP1 
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b640000_slpor.m3u8?token=1662436800_16b04c525d93bd87e57878b38d27b620eb8779d5
+#EXTINF: -1 tvg-id="SIC.pt" group-title="Portugal", SIC 
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF: -1 tvg-id="TVI.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="Portugal", TVI (480p)
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF: -1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/08xTtYD.png" group-title="Portugal", TVI Reality (480p)
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
 #EXTINF: -1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="United Kingdom", BBC Four (540p) [Geo-blocked]
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
