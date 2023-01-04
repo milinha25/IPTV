@@ -463,8 +463,6 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44145.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13904.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/657px-CBC_Logo_1992-Present.svg.png" group-title="CANADA", CBC Toronto
 http://tv.masterplaytv.xyz:8000/LTN737/7647385926/3671?checkedby:dailyfreeiptvlist.com
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/657px-CBC_Logo_1992-Present.svg.png" group-title="CANADA", CBC HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMq8DNwrxV6TvE0OdvlXYok/ts?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/375px-CTV_logo_2018.svg.png" group-title="CANADA", CTV Toronto
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/54000?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="CANADA", Global Toronto
@@ -573,6 +571,8 @@ http://tv.masterplaytv.xyz:8000/LTN737/7647385926/55013?checkedby:dailyfreeiptvl
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/225px-Canale_5_-_2018_logo.svg.png" group-title="ITALIA", CANALE 5
 http://stream.streamhubtv.xyz:8080/marina/marina/648138?checkedby:dailyfreeiptvlist.com
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/225px-Canale_5_-_2018_logo.svg.png" group-title="ITALIA", Canale 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/300px-Rai_1_-_Logo_2016.svg.png" group-title="ITALIA", RAI 1 HD (720p)
 http://146.59.145.53:80/anna/anna/168961?checkedby:dailyfreeiptvlist.com
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/300px-Rai_2_-_Logo_2016.svg.png" group-title="ITALIA", RAI 2 HD (720p)
@@ -865,15 +865,3 @@ https://16live00.akamaized.net/CNN/index.m3u8
 https://trn10.tulix.tv/WAGA-FOX/index.m3u8
 #EXTINF: -1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="USA - News", Fox News Channel (720p)
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 01
-http://axr.life:80/096154/686531/766786
-#EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 02
-http://axr.life:80/096154/686531/766787
-#EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 03
-http://axr.life:80/096154/686531/766788
-#EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 04
-http://axr.life:80/096154/686531/766789
-#EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 05
-http://axr.life:80/096154/686531/766790
-#EXTINF: -1 tvg-logo="http://brla.me/242.png" group-title="Xena", [24H] - Xena a Guerreira - Temp 06
-http://axr.life:80/096154/686531/766791
