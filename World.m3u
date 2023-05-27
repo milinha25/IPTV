@@ -70,9 +70,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Brasil - Desenhos", Retrô Cartoon (480p) [Not 24/7]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Brasil - Geral",Band
-http://painel.iptvmove.com:25461/live/danga07/1963/1347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Brasil - Geral",Band HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1417.m3u8
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Brasil - Geral",Band Alt
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/560.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band HD [Alter]" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Brasil - Geral",Band HD [Alter]
 http://painel.iptvmove.com:25461/live/danga07/1963/3127.m3u8
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/512px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Brasil - Geral", Rede Brasil (RBTV) (720p)
